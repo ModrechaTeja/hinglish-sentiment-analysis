@@ -1,0 +1,3 @@
+comparison,transformer_run,only_classical_correct,only_transformer_correct,mcnemar_p,macro_f1_diff,diff_ci_low,diff_ci_high,bootstrap_p_transformer_not_better,seeds_significant_at_0.05
+mBERT vs Char Linear SVM,mbert_lr3e-05_seed42_text_clean,72,52,0.08755276689017016,-0.048786338245032514,-0.09260762169802883,-0.006972995632778456,0.9883,0/3
+MuRIL vs Char Linear SVM,muril_lr3e-05_seed42_text_clean,61,52,0.45185326866574166,-0.019871011354846726,-0.06074749754057126,0.020775240501091155,0.8318,2/3

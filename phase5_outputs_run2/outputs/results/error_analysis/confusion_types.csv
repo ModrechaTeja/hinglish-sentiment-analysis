@@ -1,0 +1,5 @@
+model,Neu<->Pos,Neg<->Neu,Neg<->Pos,total_errors
+Char Linear SVM,106,49,22,177
+mBERT,102,55,31,188
+MuRIL,111,55,19,185
+IndicBERT,126,66,36,228

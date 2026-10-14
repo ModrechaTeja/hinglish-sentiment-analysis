@@ -1,0 +1,3 @@
+model,lr,input,n_seeds,val_macro_f1,test_macro_f1,test_f1_negative
+MuRIL,3e-05,text_clean,3,0.7033 ± 0.0180,0.6270 ± 0.0251,0.5528 ± 0.0357
+MuRIL,3e-05,text (raw),3,0.6985 ± 0.0291,0.6349 ± 0.0291,0.5461 ± 0.0438

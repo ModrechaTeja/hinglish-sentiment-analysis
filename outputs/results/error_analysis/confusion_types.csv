@@ -1,0 +1,2 @@
+model,Neu<->Pos,Neg<->Neu,Neg<->Pos,total_errors
+Char Linear SVM,106,49,22,177

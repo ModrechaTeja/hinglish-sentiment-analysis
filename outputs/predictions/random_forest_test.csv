@@ -1,0 +1,583 @@
+id,text,text_clean,label,pred,prob_negative,prob_neutral,prob_positive,correct
+4132,Salman bhai i knw ur a big celebrity par hakk toh hume bhi milna chaye apse baat krne ka !,Salman bhai i knw ur a big celebrity par hakk toh hume bhi milna chaye apse baat krne ka !,1,1,0.2749159130152974,0.3771324584306871,0.3479516285540154,True
+4924,suna ha ap sub comments parhtay hain :* <3,suna ha aap sub comments parhtay hain : <3,1,2,0.07442013425632923,0.4390863631364067,0.48649350260726415,False
+55,Modije mera request hai ke ap apna whatsapp no de take mai live pic apko dekha saku,Modije mera request hai ke aap apna whatsapp no de take mai live pic apko dekha saku,1,1,0.25901745867917775,0.3710998615524262,0.36988267976839584,True
+1940,Bhai jaan ap kahi bhi ho jaldi hi wapas ajao meh bhagwan se dua kruga ap jaldi hi aao bhai,Bhai jaan aap kahi bhi ho jaldi hi wapas ajao meh bhagwan se dua kruga aap jaldi hi aao bhai,1,1,0.11145894175260092,0.5143942962644038,0.37414676198299507,True
+3604,Sala kutta kamena amara time west kara tia salman,Sala kutta kamena amara time west kara tia salman,2,0,0.7302879315000591,0.16220071668962702,0.10751135181031382,False
+2347,okk bhai jaan,okk bhai jaan,1,1,0.0397774979161541,0.5108597210271634,0.4493627810566829,True
+4593,Abbu Ki shopping hogai bas Ammi Ki shopping baaki hai,Abbu Ki shopping hogai bas Ammi Ki shopping baaki hai,1,0,0.5084065804736811,0.25436827763034653,0.23722514189597235,False
+3761,Pagalo aa gae bus chalo ghus jao bus me jiyada aur rahy yaha to phir apka koi ilaj nhi,Pagalo aa gae bus chalo ghus jao bus me jiyada aur rahy yaha to phir apka koi ilaj nahi,0,0,0.4287968768181683,0.3517267012736153,0.21947642190821678,True
+3970,plz ap prem patel ki help kijiye plzzzzz.,please aap prem patel ki help kijiye plzzzzz.,1,1,0.19053332728129865,0.5466569456612647,0.26280972705743744,True
+2064,Mere cmnt padhne waalo. Jab is madar chhod ka bajrangi film flop kre to samajh jaana k muslim ka haaye laga ise.,Mere cmnt padhne waalo. Jab is madar chhod ka bajrangi film flop kre to samajh jaana k muslim ka haaye laga ise.,0,0,0.6871504923551406,0.15016714285406857,0.1626823647907908,True
+1943,Bhai jaan hum apke liye ek thofa bej rahe h .....I love you. ....salman khan. .....,Bhai jaan hum apke liye ek thofa bej rahe hai .....I love you. ....salman khan. .....,2,2,0.08966951830499786,0.16905932119046177,0.74127116050454,True
+2712,Aa jao bhai,Aa jao bhai,1,1,0.03940748440058905,0.7211052254396567,0.2394872901597546,True
+1996,khash ap mjy ad kr kr ....i know esa ap kro gy ni....,khash aap mjy ad kr kr ....i know esa aap kro gy ni....,1,1,0.399588811895762,0.41197425342293814,0.18843693468129988,True
+2319,Help me hlp me plzz bhai,Help me hlp me please bhai,1,1,0.06562281355926368,0.6601828129690426,0.27419437347169384,True
+3242,Aaaaaaa jaaaaaoooooo bhaiiiiiiiiiiiiiiiiiii knha busy hooooo ham wait kr rhe h,Aaaaaaa jaaaaaoooooo bhaiiiiiiiiiiiiiiiiiii knha busy hooooo ham wait kr rhe hai,1,1,0.26115266118439595,0.44219952026583653,0.2966478185497677,True
+4063,friends tum sab salman khan ku thaknah chati hu. ...???,friends tum sab salman khan ku thaknah chati hu. ...??,1,0,0.416873715270709,0.31298458029118964,0.27014170443810154,False
+1113,Lovly sallu bhaijine,Lovly sallu bhaijine,2,2,0.10846382404807772,0.2664149041458078,0.6251212718061143,True
+1596,bhai ap muslim bina kesi hit karoge ye films. .,bhai aap muslim bina kesi hit karoge ye films. .,0,2,0.2760230249760428,0.2587719364039099,0.4652050386200471,False
+1483,Salman mere jaan muuuhhhhhhaaa,Salman mere jaan muuuhhhhhhaaa,2,2,0.12812754858724537,0.36428829072054836,0.5075841606922062,True
+4199,Main ne tu kbi in romurs py yakeen kiya hi ni tha Bhai jaan,Main ne tu kbi in romurs py yakeen kiya hi ni tha Bhai jaan,0,0,0.5352760018818866,0.2553447581855117,0.20937923993260152,True
+2312,sabhi bandra aao mere ghar par sabse milunga main,sabhi bandra aao mere ghar par sabse milunga main,1,1,0.1641806304997457,0.5382402170001023,0.2975791525001522,True
+3354,bhai busy hai?,bhai busy hai?,1,1,0.15682416925560633,0.5179697666461789,0.32520606409821445,True
+1419,Dukkar h salman suwar kahi ka,Dukkar hai salman suwar kahi ka,0,0,0.5147832038845862,0.24734349153356916,0.23787330458184455,True
+1191,Sllam bhai jaan EIDmubarakh.,Sllam bhai jaan EIDmubarakh.,1,2,0.031533870139142044,0.3262650520478086,0.6422010778130488,False
+4877,Javab nahi hai,Javab nahi hai,1,0,0.6271791601243696,0.2776144534091954,0.09520638646643471,False
+4187,ye tumse jalne walo k kaam h bhai,ye tumse jalne walo k kaam hai bhai,0,1,0.21434090937000297,0.4208000326942227,0.36485905793577367,False
+1029,jo jo gali diya hai sabko sunna hoga ab,jo jo gali diya hai sabko sunna hoga ab,0,1,0.36123783385290353,0.3799429670206879,0.25881919912640833,False
+1227,Kafir ki aulad mai teri movi nhi dekhunga....,Kafir ki aulad mai teri movi nahi dekhunga....,0,0,0.7402531435830211,0.14842457050660707,0.11132228591037228,True
+4422,Nitin Saxena bhai order krdia kya???,Nitin Saxena bhai order krdia kya??,1,1,0.09357131414878034,0.5700017619326604,0.3364269239185592,True
+2305,Bhaijaaaannnnn ab tuuuuu aajjjaa,Bhaijaaaannnnn ab tuuuuu aajjjaa,1,1,0.22486693725772636,0.4493008883008096,0.32583217444146406,True
+4258,Yr tum sab ko bahut takleef he bhai ki sadi. ..se. ..heiiiiinn?,Yr tum sab ko bahut takleef he bhai ki sadi. ..se. ..heiiiiinn?,0,0,0.38614854160445555,0.33260763446546593,0.28124382393007846,True
+4490,Salman khan sab sy best,Salman khan sab sy best,2,2,0.2860379409833796,0.20474444432746486,0.5092176146891554,True
+2400,Plz salman sir,please salman sir,1,1,0.08867369624642181,0.6056274869820968,0.30569881677148186,True
+1504,nic song . bhi jan,nic song . bhi jan,2,2,0.11814773412915507,0.2781306397058186,0.6037216261650261,True
+1394,Advance mai eid mobarak bhai,Advance mai eid mobarak bhai,1,2,0.07639308782413425,0.44477901131467773,0.47882790086118804,False
+3096,bhai mera rply jarur krna pehle hi bta du ;-),bhai mera rply jarur krna pehle hi bta du ;-,1,1,0.12620856926830032,0.5325678000920737,0.34122363063962635,True
+2543,nai ata kamina salman khan sabko pagal banara lolz,nahi ata kamina salman khan sabko pagal banara lolz,1,0,0.5572019285785951,0.26056644635617526,0.18223162506522952,False
+1112,Ap riyel salmankan hai to sun no ke pahele ye socho ke msalman hai ke nahi hai to akhirat ki fika kar,aap riyel salmankan hai to sun no ke pahele ye socho ke msalman hai ke nahi hai to akhirat ki fika kar,1,0,0.529491790297639,0.2877758180580493,0.18273239164431157,False
+1616,Bhaijan aap ki sari film supar hoti hai or. Main aap ki sari film dekhti hun kash main ek baar aap se mil pati,Bhaijan aap ki sari film supar hoti hai or. Main aap ki sari film dekhti hun kash main ek baar aap se mil pati,2,2,0.3031880135521689,0.3024796125398215,0.39433237390800985,True
+2762,abe salman khan yaha logo ko bewakuf bana raha he aur log ban b rahe he per me nahi banoonga samjha be bajrangi,abe salman khan yaha logo ko bewakuf bana raha he aur log ban b rahe he per me nahi banoonga samjha be bajrangi,1,0,0.4802362606736568,0.2771714823005419,0.24259225702580112,False
+4914,aapki pic hit ho ye meri tammnna hai,aapki pic hit ho ye meri tammnna hai,2,2,0.1883674736371246,0.1995304744965448,0.6121020518663305,True
+1820,all song rocking han bahi,all song rocking han bahi,2,2,0.07447478073277639,0.217565933878849,0.7079592853883744,True
+1812,Aapne aisa q kha salman ki aap bina muslmn ki apni pix hit kra doge,Aapne aisa q kha salman ki aap bina muslmn ki apni pix hit kra doge,0,0,0.3979574136428837,0.23467770702625346,0.36736487933086265,True
+1420,Mr. salman ajkal aap k setare gardish mai aapko sarf 8 hazar comment aate hai oh ho,Mr. salman ajkal aap k setare gardish mai aapko sarf 8 hazar comment aate hai oh ho,2,2,0.1797192742357537,0.4016082176623515,0.41867250810189477,True
+1790,soo sweeet song,soo sweeet song,2,2,0.08747614114151224,0.21083762668187825,0.7016862321766091,True
+2527,Plss suno na,Plss suno na,1,1,0.24194021205177998,0.4310603747446125,0.3269994132036078,True
+111,Jada ghumte mat raho hamlok ko madat karo hamar bare socho jara ham madat magte to mili nahi qq,Jada ghumte mat raho hamlok ko madat karo hamar bare socho jara ham madat magte to mili nahi qq,0,0,0.6311325616443219,0.23499422495219277,0.13387321340348549,True
+1410,party kha pai hoygi bhai,party kha pai hoygi bhai,1,1,0.08421625267267084,0.6368499505076312,0.278933796819698,True
+2328,Bhai jaldi karo na,Bhai jaldi karo na,1,1,0.18474000701168594,0.6333020863592987,0.1819579066290154,True
+2454,Are kaise pata chalega ke online ho,Are kaise pata chalega ke online ho,1,1,0.1647789667943412,0.4875811069848433,0.3476399262208158,True
+2533,bhai dhakka na den,bhai dhakka na den,1,1,0.14893982342502007,0.5629977539763089,0.28806242259867115,True
+4141,qqq kiya aapne aisa,qqq kiya aapne aisa,1,0,0.4674405802406429,0.36441652809818315,0.16814289166117452,False
+205,Ek naya itihas banayega Modi ji ka karyekaal.,Ek naya itihas banayega Modi ji ka karyekaal.,2,2,0.23885847387943784,0.1984685498691946,0.5626729762513677,True
+1864,aise neak kam karne se shayad hi unke dilo mai hamare desh ke liye pyaar bade,aise neak kam karne se shayad hi unke dilo mai hamare desh ke liye pyaar bade,1,0,0.42672421641955227,0.26320650526245276,0.3100692783179952,False
+1389,apko bhi mubarak,apko bhi mubarak,2,2,0.11250549653071723,0.430174236778821,0.4573202666904614,True
+2862,u r muslim soo app rozay rakh rhy hoooo,u r muslim soo app rozay rakh rhy hoooo,1,0,0.3763553057080197,0.2543113610615592,0.3693333332304208,False
+4610,I love you Salman sir kaash main apse baat kar pati..i miss you..<3,I love you Salman sir kaash main apse baat kar pati..i miss you..<3,2,2,0.02285108150494599,0.18936023225210688,0.7877886862429472,True
+4131,Salman bhai bada wala tharra Desi ka pike so gaye Heheheh,Salman bhai bada wala tharra Desi ka pike so gaye Heheheh,0,1,0.18041294160807955,0.4844589098365196,0.3351281485554008,False
+139,Maza to tab hai jab kohinoor wapis lao,Maza to tab hai jab kohinoor wapis lao,1,1,0.3486798196407716,0.38981460891908604,0.26150557144014247,True
+3149,Yes sab jhuth hai koi salman khan humlogo se baat nhi karne wale,Yes sab jhuth hai koi salman khan humlogo se baat nahi karne wale,1,0,0.5362323631547796,0.29122062692015205,0.1725470099250683,False
+728,8527106761 plz Salman sir. Mujhe aapse milne ka moka den,8527106761 please Salman sir. Mujhe aapse milne ka moka den,1,1,0.1640453864515809,0.5924304380359237,0.24352417551249592,True
+605,Damn thm invisible ninjas cuttin onions..,Damn thm invisible ninjas cuttin onions..,0,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,False
+180,bharat ka shan narendar modi lakin bihar ka kya hoga modi jee,bharat ka shan narendar modi lakin bihar ka kya hoga modi jee,1,2,0.26912126032452716,0.1492189746301477,0.5816597650453251,False
+560,"Great modi ji,duja koi nhi aap jaisa","Great modi ji,duja koi nahi aap jaisa",2,2,0.26267394892493373,0.1563606397498822,0.5809654113251843,True
+4104,"Aapko hamari b umar lag jaye, itne bade fan hi ham","Aapko hamari b umar lag jaye, itne bade fan hi ham",2,2,0.14251448516809379,0.32148018278569557,0.5360053320462104,True
+4188,Salman mera bacha tere naam se wo blue mark kider gyaaaaa,Salman mera bacha tere naam se wo blue mark kider gyaaaaa,1,0,0.6958609784749696,0.15313456827326963,0.1510044532517608,False
+929,Bhai apks bazrangi bhaijan movi song verey nice,Bhai apks bazrangi bhaijan movi song verey nice,2,2,0.04315396443937492,0.2025651519197466,0.7542808836408782,True
+2677,kaha par ho app bhai ? jaldi aa bi jaw,kaha par ho app bhai ? jaldi aa bi jaw,1,1,0.10030410883810802,0.7074518535512905,0.1922440376106017,True
+4472,Ye movie hit hone se ruk he nhi skta h movie hit hoga hit hoga hit hoga----------------------,Ye movie hit hone se ruk he nahi skta hai movie hit hoga hit hoga hit hoga----------------------,2,2,0.24287014074751995,0.15927373851253473,0.5978561207399461,True
+2892,Hello sir ji salmaan ji itna late kyu ho rha hai plz jaldi reply kro plz i m waiting for ur response,Hello sir ji salmaan ji itna late kyun ho rha hai please jaldi reply kro please i m waiting for ur response,1,1,0.12506187717078937,0.6518332025145779,0.22310492031463355,True
+2866,Dabang kha ho,Dabang kha ho,1,1,0.09089635102786545,0.7620331183324403,0.1470705306396939,True
+944,teri aukat kya hai khabbis jo ham musalmano ko nich bolta hai,teri aukat kya hai khabbis jo ham musalmano ko nich bolta hai,0,0,0.6029108257043809,0.22068530300062578,0.17640387129499388,True
+4120,Salman khan bn kr yaha kyi logo ne fake msg kiya h.... Bt hm hmesha real hero my salman khan se hmesha pyar krenge,Salman khan bn kr yaha kyi logo ne fake msg kiya h.... Bt hm hmesha real hero my salman khan se hmesha pyar krenge,2,0,0.5826936693458988,0.1676579701044326,0.24964836054966816,False
+2413,sab se bada my hun salman khan ka deewana,sab se bada my hun salman khan ka deewana,1,0,0.3855015340469217,0.23290401126904253,0.38159445468403574,False
+1555,Salam Nadia Khan frm salman khan,Salam Nadia Khan frm salman khan,1,2,0.33825068073593945,0.26431974122497676,0.397429578039084,False
+4850,Hallo bhaijan kaha ho,Hallo bhaijan kaha ho,1,1,0.043592136742834346,0.8247717599083493,0.13163610334881648,True
+776,Bhai mujhe bhi kardo nominate plz,Bhai mujhe bhi kardo nominate please,2,1,0.0820317425007238,0.6730587509259213,0.2449095065733551,False
+4515,i love u vaii.khuda hamesha apki saath rahegi vaii,i love u vaii.khuda hamesha apki saath rahegi vaii,2,2,0.014361472378398658,0.11472845595654478,0.8709100716650565,True
+602,"Doosro ka maar ke bana thaa, doosro ka maarne ke chakkar me phasa....","Doosro ka maar ke bana thaa, doosro ka maarne ke chakkar me phasa....",0,0,0.4216000193272654,0.2631145140876935,0.3152854665850413,True
+2653,kaha h bhai jann,kaha hai bhai jann,1,1,0.10101268228375991,0.5915497394447748,0.3074375782714654,True
+3046,Bhai kamal k jodi hoge ap 3nun ki.,Bhai kamal k jodi hoge aap 3nun ki.,1,1,0.23120215036695568,0.4262676483330233,0.34253020130002115,True
+4138,Bhai movie itni chalegi ki record ho jaayega,Bhai movie itni chalegi ki record ho jaayega,2,2,0.2671964655381207,0.35809709732504125,0.374706437136838,True
+2041,aap to being human ho aap ka flim hit to honahi hai itni logoka duya jo hai.,aap to being human ho aap ka flim hit to honahi hai itni logoka duya jo hai.,2,2,0.2519919404647368,0.2925040612693615,0.4555039982659022,True
+1769,Bolo naa kyaa karo salman ?,Bolo naa kyaa karo salman ?,1,1,0.3504002444947632,0.35959980279831105,0.2899999527069255,True
+4080,sorry year... sara then salman khan kiy sathe mere thenb barbat... :'(,sorry year... sara then salman khan kiy sathe mere thenb barbat... :'(,0,1,0.31152207128551584,0.3557093890703712,0.33276853964411307,False
+1477,Vadiaa veer ji,Vadiaa veer ji,1,2,0.12155574541124559,0.4156443632946499,0.46279989129410476,False
+3727,Is baar ni hua katti bt nxt time jarur ho jauga...love u bhaijaan.......mmmmuuuuuuaaaaahhhhhhhh,Is baar ni hua katti bt nxt time jarur ho jauga...love u bhaijaan.......mmmmuuuuuuaaaaahhhhhhhh,2,2,0.2724758389500711,0.27281397196332363,0.4547101890866056,True
+1132,Haaa bhai hoooo gyi party aaj ki,Haaa bhai hoooo gyi party aaj ki,1,1,0.22927153236493647,0.505726776829453,0.2650016908056108,True
+2271,Mai 2 year phle mumbai aaya tha bhut kosis ki but aap ko Dekh na saka,Mai 2 year phle mumbai aaya tha bahut kosis ki but aap ko Dekh na saka,1,2,0.2857695249742325,0.32124613896416304,0.3929843360616043,False
+2269,Bhai jaan salam lekum aapke pass time hai,Bhai jaan salam lekum aapke pass time hai,1,1,0.09465799876176588,0.5178472368067325,0.3874947644315019,True
+3686,Ha jao jao kon rok rha h tumen,Ha jao jao kon rok rha hai tumen,2,1,0.3910780614050458,0.40543388609317405,0.2034880525017801,False
+4891,Kya chutiye log hain Jo ise eid Mubarak bol rahe hain is kamine ko kya mlm k ramzan kya hai aur eid kyu manate hain...ise to sirf paison se mtlb hai,Kya chutiye log hain Jo ise eid Mubarak bol rahe hain is kamine ko kya mlm k ramzan kya hai aur eid kyun manate hain...ise to sirf paison se mtlb hai,0,0,0.35148017493137274,0.29803849675570615,0.35048132831292095,True
+2874,BHAI ab mujse aur wait nhi hota aapka wait 3.30 se kr rha ho,BHAI ab mujse aur wait nahi hota aapka wait 3.30 se kr rha ho,1,1,0.3407850309751656,0.5104122631246754,0.14880270590015904,True
+952,Galt baat ke muslmano kai khilaf ovisey ka sath de na de.....galt q bola...?,Galt baat ke muslmano kai khilaf ovisey ka sath de na de.....galt q bola...?,0,1,0.3564555708093003,0.3873637175335887,0.2561807116571109,False
+3958,mere sawal ka jawab koi nhi de sakta ;),mere sawal ka jawab koi nahi de sakta ;),2,0,0.5358483413736871,0.309941434531073,0.15421022409523952,False
+4589,Mast hai bhai,Mast hai bhai,2,2,0.08922254974245257,0.38525450131006805,0.5255229489474792,True
+3516,lv u salman... schi m bat kroge kya sbse.. lv uuuuuuuuuuu sooooooooooo mch.......,lv u salman... schi m bat kroge kya sbse.. lv uuuuuuuuuuu sooooooooooo mch.......,2,1,0.13035490675730285,0.4610220139332608,0.40862307930943637,False
+4633,Sallu u jst fav,Sallu u jst fav,2,2,0.11068637020939938,0.26668417852222503,0.6226294512683754,True
+2266,"Bhai pata nhi apku ye msg mile ya na mile par Kuch dino se apka dimag kharab hogaya h lagta ap ab do nao me sawaar hone ki koshish karrahe h behter yahi hoga k shahrukh ,aamir k jese ek imaan pe raho Allah hafiz","Bhai pata nahi apku ye msg mile ya na mile par Kuch dino se apka dimag kharab hogaya hai lagta aap ab do nao me sawaar hone ki koshish karrahe hai behter yahi hoga k shahrukh ,aamir k jese ek imaan pe raho Allah hafiz",1,0,0.4034809009450163,0.2986732501545411,0.29784584890044313,False
+3919,Sb kh rhe h fake id fake id . Aap ko proove krna chahiye aap hi ho.,Sb kh rhe hai fake id fake id . aap ko proove krna chahiye aap hi ho.,2,0,0.4689647441248898,0.2456929838836034,0.2853422719915068,False
+2464,bas 1 min aur,bas 1 min aur,1,1,0.12786736186696024,0.4551176036327263,0.41701503450031346,True
+550,Thnx sir ji,thanks sir ji,2,1,0.09308620745769515,0.482285139763484,0.42462865277882095,False
+1832,Jai shri krishna bhagwaan ji apko hamesha khush rakhe,Jai shri krishna bhagwaan ji apko hamesha khush rakhe,2,2,0.0995097479026386,0.2599247510599805,0.6405655010373809,True
+1443,"Bohot accha hai . Aaj ki party mari taraf se , sab ko bolo utre flak se . Nice","bahut achha hai . Aaj ki party mari taraf se , sab ko bolo utre flak se . Nice",2,2,0.22174312162391677,0.29676159965865984,0.4814952787174232,True
+4687,Shukriya Bhaijaaaaan... Mere bday pe aj tak mila huva Sabse pyara tohfa.... Bajrangi Bhaijaaaaan....,Shukriya Bhaijaaaaan... Mere bday pe aj tak mila huva Sabse pyara tohfa.... Bajrangi Bhaijaaaaan....,2,1,0.15033780300213026,0.4612001024212129,0.38846209457665687,False
+864,Salman realy good yar,Salman realy good yar,2,2,0.1579475833075385,0.37108523671334465,0.4709671799791167,True
+819,Nice pic kaise lagte ho aap itne handsome,Nice pic kaise lagte ho aap itne handsome,2,2,0.04222631867439195,0.22927122428709368,0.7285024570385149,True
+4604,i m ur big fan.kash ek bar apko dkh pati.aur mai zarur augi ek din,i m ur big fan.kash ek bar apko dkh pati.aur mai zarur augi ek din,2,2,0.08072053967457209,0.455152340453138,0.4641271198722899,True
+2408,Bhai kia karne arahe ho,Bhai kia karne arahe ho,1,1,0.06890295935450055,0.6292121451530411,0.3018848954924581,True
+1921,Bhiya ji mujhe ek chota mota roll de dena dabbang three me,Bhiya ji mujhe ek chota mota roll de dena dabbang three me,1,1,0.1410367086936454,0.5127624426672065,0.34620084863914835,True
+413,modiji yehi voh desh hai jo hume aur mazbut banayenge,modiji yehi voh desh hai jo hume aur mazbut banayenge,2,0,0.41181398714582107,0.254054396232546,0.33413161662163254,False
+1791,lovly &nice song ..salman.,lovly nice song ..salman.,2,2,0.06300067990919068,0.08936065058459014,0.8476386695062189,True
+2375,7 mnt or,7 mnt or,1,1,0.2826068300115304,0.38725739264579984,0.3301357773426696,True
+4480,oye alia privacy block,oye alia privacy block,1,1,0.16554248348475467,0.43563567320138097,0.39882184331386417,True
+2125,Sabse kimti cheej mili pahchan kafi hai,Sabse kimti cheej mili pahchan kafi hai,1,2,0.25420706168416685,0.3523158457760499,0.39347709253978314,False
+2935,4 baj gaye hain,4 baj gaye hain,1,1,0.03670264643170681,0.7493362740942577,0.2139610794740357,True
+3012,hiiiiiiiiiiii sallu bhai im big fan sallu bhai aapko twitter par roz mai hi massage karti ho im big fan sallu bhai reply plzzzzzz,hiiiiiiiiiiii sallu bhai im big fan sallu bhai aapko twitter par roz mai hi massage karti ho im big fan sallu bhai reply plzzzzzz,1,2,0.08197491024339958,0.42923098970524876,0.48879410005135154,False
+130,j banda kam kar raha hai ham maze le rahe hai jab sey india ke pm bane hai tab sey laga gai great man in the world .........best pm in the world..... only one on one......,j banda kam kar raha hai ham maze le rahe hai jab sey india ke pm bane hai tab sey laga gai great man in the world .........best pm in the world..... only one on one......,2,2,0.17216937497031773,0.17533166681995999,0.6524989582097221,True
+4724,es apps ko downlod kro sare,es apps ko downlod kro sare,1,0,0.40539799522407904,0.32021881639753697,0.2743831883783841,False
+2187,Luvvv u luvvv u luvvv u,Luvvv u luvvv u luvvv u,2,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,False
+1835,grat indian army & salman vai.,grat indian army salman vai.,2,2,0.16215763798987826,0.40738027600182425,0.43046208600829744,True
+651,Bhai ak bar haryana me aajao aapko bhut achi khani duga,Bhai ak bar haryana me aajao aapko bahut achi khani duga,2,2,0.10588663563055499,0.44400981475973905,0.4501035496097062,True
+2611,Kya karte ho salman yr,Kya karte ho salman yr,1,1,0.1697066691610554,0.5765941806453161,0.2536991501936284,True
+2632,bajrangi bhai dar gaye is idd me lagta he,bajrangi bhai dar gaye is idd me lagta he,1,1,0.23902899215486395,0.40230691288396764,0.3586640949611688,True
+4438,Trailer dhaaaansu hai yaar,Trailer dhaaaansu hai yaar,2,1,0.3157045271515457,0.3459436416340945,0.33835183121435963,False
+3905,kamal krte ho panday ji sb fan ko itna wait kra rhe ho,kamal krte ho panday ji sb fan ko itna wait kra rhe ho,2,1,0.24686891745084058,0.4754934433864359,0.27763763916272316,False
+957,Hi salman ji me apka bahut bada frend hu,Hi salman ji me apka bahut bada frend hu,2,2,0.11863857812770907,0.2887495159333337,0.5926119059389573,True
+2321,Bhai ne ek barr commitment kar di to wo fir kisiki nahi sunte,Bhai ne ek barr commitment kar di to wo fir kisiki nahi sunte,1,0,0.4510296640070843,0.369231303450963,0.17973903254195278,False
+2309,kaha pe baat kroge Bhai ye toh bata do,kaha pe baat kroge Bhai ye toh bata do,1,1,0.16639055694387547,0.6448997082661814,0.18870973478994335,True
+4122,salman sir for u dabe mein daba dabe mein cake mera piyare salman sir cororo mein aik,salman sir for u dabe mein daba dabe mein cake mera piyare salman sir cororo mein aik,1,1,0.12344511824245276,0.44787172908565914,0.4286831526718881,True
+3241,add    karo ji hamre b koi              jo.add karega salman khan usi.ko.msg karega,add karo ji hamre b koi jo.add karega salman khan usi.ko.msg karega,1,0,0.5327951442893496,0.2202874166738436,0.24691743903680707,False
+281,akele modi kya ker sakte hai.........akela aadmi pahad nhi khod sakta,akele modi kya ker sakte hai.........akela aadmi pahad nahi khod sakta,1,0,0.4690309372083449,0.27401096977109124,0.25695809302056416,False
+1919,Kuch to bto koi,Kuch to bto koi,1,0,0.4737117335516567,0.2992171091019026,0.22707115734644054,False
+1241,Weat karna padega,Weat karna padega,1,1,0.1377680235073128,0.435017485500604,0.42721449099208286,True
+4148,Salman g kabi roza rakha hi?,Salman g kabi roza rakha hi?,1,2,0.20871726526187648,0.3810075803451704,0.410275154392953,False
+3013,Bhai plz marry,Bhai please marry,1,1,0.09653753989826115,0.6666777625520267,0.23678469754971232,True
+2231,Agr time mile to mujhse bhi bat kar kena...,Agr time mile to mujhse bhi bat kar kena...,1,1,0.26371571090060447,0.5847668419916625,0.1515174471077332,True
+3813,Tum log bekar me apna time karab kar rahe ho koi nahi Aane wala,Tum log bekar me apna time karab kar rahe ho koi nahi Aane wala,2,0,0.5587679360561523,0.27072476528268696,0.17050729866116085,False
+619,ram ram bhai salman,ram ram bhai salman,2,1,0.08616812267397328,0.5041768129483438,0.40965506437768323,False
+2507,4 bjh gaye sir,4 bjh gaye sir,1,1,0.0696197703985564,0.5345885775122168,0.39579165208922634,True
+3474,Bhai aa gaye hai jai jai bajrangbali,Bhai aa gaye hai jai jai bajrangbali,2,1,0.07257512304561775,0.5140196349177838,0.41340524203659845,False
+752,Salmaan bhai maine hay kaha tumne javab nhi diya,Salmaan bhai maine hay kaha tumne javab nahi diya,0,1,0.27242910879820603,0.5388075469930145,0.18876334420877935,False
+2083,Isbar tmhari le li jyegi preshaan na ho,Isbar tmhari le li jyegi preshaan na ho,0,1,0.11614520430374514,0.7044703079465774,0.17938448774967683,False
+4014,Aap khafi busy rhte ho uncle. ....,aap khafi busy rhte ho uncle. ....,0,1,0.05997646074282272,0.6798449949260952,0.2601785443310818,False
+3624,Dongiri tb hogi jb salu bhai(Salman) nd GuRu bhai(Hemant) dono sath me honge..,Dongiri tb hogi jb salu bhai Salman nd GuRu bhai Hemant dono sath me honge..,2,1,0.08641515325500451,0.5288941403449979,0.3846907063999978,False
+2864,ma na ja ohir bhai ko post office behja ha ap ko kch snd karna k lia.magar pata nhe apka adress tak nhe pata ya pir kia waja ha,ma na ja ohir bhai ko post office behja ha aap ko kch snd karna k lia.magar pata nhe apka adress tak nhe pata ya pir kia waja ha,1,1,0.3140332017758965,0.4325241146358024,0.2534426835883014,True
+2333,Muje aap bhout aache lagkte hai bachpan se dekti aa rai hu or marte dam tak dekungi i am a big fan. . . . 4rm nepal,Muje aap bhout aache lagkte hai bachpan se dekti aa rai hu or marte dam tak dekungi i am a big fan. . . . 4rm nepal,2,1,0.20008181702972722,0.4534280070969042,0.34649017587336833,False
+3763,Aby yr kdr gum o gy ho rply tou kr do,Aby yr kdr gum o gy ho rply tou kr do,2,1,0.27571027324994807,0.42413857603821353,0.3001511507118383,False
+2412,friend yahan internet bahat slow ..... hai./..... sorry,friend yahan internet bahat slow ..... hai. ..... sorry,1,1,0.20755339414362092,0.4563787197659897,0.33606788609038946,True
+3903,Hum aapko ek jhalk dekhne ke liy a tarap rahe hai,Hum aapko ek jhalk dekhne ke liy a tarap rahe hai,2,1,0.33407316003333426,0.3655675419713867,0.30035929799527933,False
+2122,Sallman to bhout sir pakru chinal ka hai,Sallman to bhout sir pakru chinal ka hai,1,0,0.3871256328535375,0.35707248626501525,0.2558018808814472,False
+1764,super duper hit hoga bajrangi bhaijaan ye meri dua hai.,super duper hit hoga bajrangi bhaijaan ye meri dua hai.,2,2,0.0931683233224958,0.1987007756052818,0.7081309010722223,True
+2386,5 mnt or,5 mnt or,1,1,0.2826068300115304,0.38725739264579984,0.3301357773426696,True
+2665,veer ji aa gai mai karooooo start yo yo yo jai salmannnnnn :),veer ji aa gai mai karooooo start yo yo yo jai salmannnnnn :),1,2,0.09388059045409988,0.31034752034940405,0.5957718891964958,False
+1936,Sab log teyar ho jaye bhai jaan aa rahe he ........?????????????????????????????????????????????????????? 9...8....7.....6......5.....4.....3......2.....,Sab log teyar ho jaye bhai jaan aa rahe he ........?? 9...8....7.....6......5.....4.....3......2.....,1,1,0.12914393822442333,0.49871819321992245,0.3721378685556549,True
+2893,Salu bhai main tek hun ap suna wo kia kr rhy ho.,Salu bhai main tek hun aap suna wo kia kr rhy ho.,1,1,0.12660751061907818,0.5625015982258152,0.3108908911551065,True
+2658,kya huaa bhaijan,kya huaa bhaijan,1,1,0.12792620492040072,0.5910579597562942,0.2810158353233052,True
+1669,Wah bhai jaan bahut smart lag rahe ho,Wah bhai jaan bahut smart lag rahe ho,2,2,0.11656236791976421,0.34750060657448784,0.535937025505748,True
+2789,bhai 2 din se wait kar raha ho aab to comment karo,bhai 2 din se wait kar raha ho aab to comment karo,1,1,0.3095249028466019,0.4941095063549819,0.19636559079841648,True
+2232,Salman ji apka favorite gAna konsa hai bajrangi bhaijan film ka?????,Salman ji apka favorite gAna konsa hai bajrangi bhaijan film ka??,1,2,0.30652621507844896,0.2524887129065461,0.44098507201500525,False
+4450,blockbaster movie bajrangi bhaijaan...,blockbaster movie bajrangi bhaijaan...,2,2,0.08611683674167758,0.25670104199225946,0.6571821212660635,True
+2682,bhai pls kabhi mathura bhi aao na yaha apke diwane bhare pade hai .pls kabhi yaha bhi darshan do apke fans pagal ho jayenge apko dekhkr bhai,bhai please kabhi mathura bhi aao na yaha apke diwane bhare pade hai .pls kabhi yaha bhi darshan do apke fans pagal ho jayenge apko dekhkr bhai,1,1,0.12340879735771054,0.592027318210814,0.2845638844314756,True
+4023,Hiiiiiiiii Salmannnnnnnn ji meri ma aap ki BIGEST fan hain main aap ke sath baat karna chati hoon,Hiiiiiiiii Salmannnnnnnn ji meri ma aap ki BIGEST fan hain main aap ke sath baat karna chati hoon,2,2,0.10689929778732939,0.418084878062859,0.4750158241498116,True
+75,Sir app ke jo soch he subko sath me leke chalna ek din ye soch appko itna upper lejayega chahe koye appko bhulne ki kosis kerenge to unnke samne appko bhulna nehi balki desh ko bhulna nazar aayega.,Sir app ke jo soch he subko sath me leke chalna ek din ye soch appko itna upper lejayega chahe koye appko bhulne ki kosis kerenge to unnke samne appko bhulna nehi balki desh ko bhulna nazar aayega.,2,0,0.38056055078577666,0.29608356408551223,0.32335588512871105,False
+257,Modi ji bharat ki badhti abaadi ki fikar kijiye Jo bharat ko patan ke maarg per lejaa rahi h,Modi ji bharat ki badhti abaadi ki fikar kijiye Jo bharat ko patan ke maarg per lejaa rahi hai,0,2,0.3117401576338895,0.1182711144993025,0.5699887278668082,False
+1650,Zara pucho Salman se k kitna #Roza raha,Zara pucho Salman se k kitna Roza raha,1,0,0.3579707154802151,0.35520977359125894,0.2868195109285257,False
+2189,I cant wait plze cmon mve fast bhaijaan,I cant wait plze cmon mve fast bhaijaan,1,1,0.06160540685587476,0.5451024285713197,0.3932921645728054,True
+1326,sonya khan ek hijda musalmaan hai isey apna gender ni pata,sonya khan ek hijda musalmaan hai isey apna gender ni pata,0,0,0.5068237017654064,0.31126297060711366,0.18191332762747997,True
+196,(gandhi)he iz a murderer. he killed subhas ch. bose,gandhi he iz a murderer. he killed subhas ch. bose,0,2,0.1420827720953647,0.38836832635613233,0.4695489015485028,False
+1642,Bhaijaan...app tnsn free raho...,Bhaijaan...app tnsn free raho...,1,2,0.07636257418238661,0.4494877947526667,0.47414963106494684,False
+1606,Kis time kal?,Kis time kal?,1,1,0.1842777796064845,0.5565222173940949,0.2592000029994203,True
+1244,bahut pyaar h aap nhi samjhoge,bahut pyaar hai aap nahi samjhoge,2,1,0.324801632723523,0.3572265903984152,0.317971776878062,False
+3287,"Bhaijaan aap nahi aaoge toh, apke name pe high court mein case kardungi ....","Bhaijaan aap nahi aaoge toh, apke name pe high court mein case kardungi ....",0,1,0.24552198813438195,0.4643137438927821,0.290164267972836,False
+2586,Salman time pura hogya ajao na fb pe,Salman time pura hogya ajao na fb pe,1,1,0.1859400271630634,0.576736073298831,0.2373238995381056,True
+1638,Salmam khan teri film flop hogi yaad rakh le tu,Salmam khan teri film flop hogi yaad rakh le tu,0,0,0.7719894091508255,0.0911773747685599,0.13683321608061458,True
+1575,Salman bhai aap to folp hooo jiii,Salman bhai aap to folp hooo jiii,0,1,0.13001771668537296,0.43942058323493294,0.4305617000796943,False
+512,sir m aapka chuta sa fan hu par kuch bhe kar sakta hu,sir m aapka chuta sa fan hu par kuch bhe kar sakta hu,2,1,0.1922844044949964,0.4761632483993687,0.33155234710563475,False
+772,h0w are y0u my freind kese h0.,h0w are y0u my freind kese h0.,1,2,0.08898836362163827,0.39211535888392945,0.5188962774944319,False
+1960,Pta h log kitna pagal h apko milney ko,Pta hai log kitna pagal hai apko milney ko,1,0,0.42633176436191184,0.2684263887697656,0.30524184686832223,False
+1559,Asaalam aalay kumm Asaalam axelent bhai jan (y),Asaalam aalay kumm Asaalam axelent bhai jan y,2,1,0.04524636943262056,0.49518671117749125,0.459566919389888,False
+1700,kutte kutte kutte.... teri movie flop hogi,kutte kutte kutte.... teri movie flop hogi,0,0,0.915519709876051,0.018254201738084227,0.0662260883858646,True
+592,Respect to this Madam. No offence but Gujarat ko to kisi Mahapurush ne aisa change kr diya tha ki koi bhi insan slum me ni rehta.,Respect to this Madam. No offence but Gujarat ko to kisi Mahapurush ne aisa change kr diya tha ki koi bhi insan slum me ni rehta.,2,0,0.5366864115559907,0.2748962390330933,0.18841734941091615,False
+643,Kya yar hum Milne aaye or aap to mile hi nhi,Kya yar hum Milne aaye or aap to mile hi nahi,1,0,0.43435510226813806,0.348537653401712,0.2171072443301497,False
+3840,bhai jaan aaye kya,bhai jaan aaye kya,2,2,0.0760542506660803,0.35273636665469676,0.5712093826792226,True
+3962,Hyd mai sabse ziyada apke fans hai salman hum to bajrangi bhaijaan zarur dekhngeeee,Hyd mai sabse ziyada apke fans hai salman hum to bajrangi bhaijaan zarur dekhngeeee,2,2,0.284372420459793,0.2895826012313025,0.42604497830890486,True
+3446,Sir uttrakhand se hai ! Yaha ke fans ko apka intezaar karna padta hai ! Plz come once to nanital !,Sir uttrakhand se hai ! Yaha ke fans ko apka intezaar karna padta hai ! please come once to nanital !,1,1,0.34752973677668064,0.42147089467434484,0.23099936854897468,True
+3965,Salman bhai loves us....so dnt be disappointed. ...ek din bhai se milne ka mauka sab ko milega...,Salman bhai loves us....so dnt be disappointed. ...ek din bhai se milne ka mauka sab ko milega...,2,1,0.34382832130586904,0.36650815090682765,0.2896635277873032,False
+1366,bhai mae tho tayar hae,bhai mae tho tayar hae,2,1,0.058960609771034525,0.542716173726187,0.39832321650277824,False
+4741,1 no trealir bhai,1 no trealir bhai,2,1,0.053766005365364695,0.5403912998328728,0.40584269480176244,False
+4458,Wai sale Ismail kutte jyada bhaukana sehat k liye nuksaandayak hai . Amma k pallu me so jaa ab ## boxdk,Wai sale Ismail kutte jyada bhaukana sehat k liye nuksaandayak hai . Amma k pallu me so jaa ab boxdk,0,0,0.7455265244021252,0.17614884729753785,0.07832462830033694,True
+3701,ek reply mujhe bi kardo bhai,ek reply mujhe bi kardo bhai,2,1,0.07296806386675656,0.5721648632764738,0.3548670728567699,False
+4945,Salman ke movie mai always dam hota hi hai frnds,Salman ke movie mai always dam hota hi hai frnds,2,0,0.37946863784358464,0.27430351389237595,0.34622784826403913,False
+1175,"U jahanami ,,,.hate u ,,waqt hai sudhr jao,,,","U jahanami ,,,.hate u ,,waqt hai sudhr jao,,,",0,1,0.3008370720632538,0.4358740734278071,0.2632888545089389,False
+4037,Aaj kal had koi salman khan banta pherta ha,Aaj kal had koi salman khan banta pherta ha,0,0,0.5050644799720998,0.2410120555872787,0.25392346444062186,True
+1092,Kyu nahi ap eid per ap bolaye or hum na aye hum jaror aye g,kyun nahi aap eid per aap bolaye or hum na aye hum jaror aye g,1,1,0.2752707783163305,0.4798062475284278,0.24492297415524183,True
+4238,I love uuuuuii salman khaaan ;-);-);-);-),I love uuuuuii salman khaaan ;- ;- ;- ;-,2,2,0.06683757952283606,0.10881075911308123,0.8243516613640829,True
+1939,meri zindagi ka maksad he apse milna,meri zindagi ka maksad he apse milna,1,2,0.32360384582735713,0.333628774917746,0.3427673792548966,False
+3874,Jo salman se pyar karte h wo islaam se pyar nhi karte,Jo salman se pyar karte hai wo islaam se pyar nahi karte,2,0,0.5244312526218083,0.2936740630476476,0.1818946843305441,False
+411,Apke niti se ane wale salo me bharat sabse age hoga... Or apki widesh niti bahot hi badhiya h...,Apke niti se ane wale salo me bharat sabse age hoga... Or apki widesh niti bahut hi badhiya h...,2,2,0.1811792830391734,0.15536390319002222,0.663456813770804,True
+3673,kasm  khuda  ki  itna  toh  class12  ke result ke din  v  exitmnt ny  tha.,kasm khuda ki itna toh class12 ke result ke din v exitmnt ny tha.,2,0,0.4288248835762993,0.34597484656398214,0.22520026985971872,False
+2696,bhai bolo to sahi,bhai bolo to sahi,1,1,0.16313697823350187,0.49988769669249034,0.33697532507400746,True
+4739,Super hai bhai suraj is rocking,Super hai bhai suraj is rocking,2,2,0.22968495092953062,0.26147058698851305,0.5088444620819566,True
+2049,Bhai mein to aap ka diwana hu aap ki koi se bhi film aati hai first show dhekta hu aur is saal bhi main dhoom macha duga....,Bhai mein to aap ka diwana hu aap ki koi se bhi film aati hai first show dhekta hu aur is saal bhi main dhoom macha duga....,2,1,0.20206551694498912,0.4079974592860891,0.3899370237689221,False
+1469,super jodi kreena sallu,super jodi kreena sallu,2,2,0.0759491474573166,0.17666508519064902,0.7473857673520341,True
+3755,koi ta msg krdo Salman Khan,koi ta msg krdo Salman Khan,2,0,0.5261551801110481,0.21320441614233487,0.2606404037466169,False
+27,"Narendra Modi Yeh kya bakchodi pel rahe ho facebook pe, kaam karlo plz!","Narendra Modi Yeh kya bakchodi pel rahe ho facebook pe, kaam karlo plz!",0,2,0.27671446669706073,0.2629204037111664,0.4603651295917728,False
+4745,Salman bhai aap hoge jis movie mai to hi jaunga dekhne,Salman bhai aap hoge jis movie mai to hi jaunga dekhne,2,2,0.20936492807403007,0.3640936630311478,0.4265414088948222,True
+2502,Salman bhai jai ho. Blessings to bajrangi bhaijann. ....,Salman bhai jai ho. Blessings to bajrangi bhaijann. ....,1,2,0.1757872554475761,0.348037673710466,0.47617507084195815,False
+960,galti tum kar rahe ho aur saja mujhe mil rha hai,galti tum kar rahe ho aur saja mujhe mil rha hai,0,0,0.47974693065927015,0.3376075097337537,0.18264555960697615,True
+1883,"ami tomake khub valobasi, i love u bhai jan","ami tomake khub valobasi, i love u bhai jan",2,2,0.017933039141940242,0.20227593181898054,0.7797910290390798,True
+3739,tum achi acting krta h,tum achi acting krta hai,2,0,0.42246099506539614,0.28578112140157413,0.2917578835330293,False
+4100,"Avi ku good night, maja abvi baki hai!!#sunati","Avi ku good night, maja abvi baki hai!!sunati",1,1,0.14795828889842774,0.47669123391602236,0.3753504771855502,True
+4585,bahubali kar rhi h record tod collection,bahubali kar rhi hai record tod collection,2,1,0.18371634623981245,0.48357936295293247,0.3327042908072553,False
+4260,Mere yeha ek ladka bhi nhi jayega movie dekhne,Mere yeha ek ladka bhi nahi jayega movie dekhne,0,0,0.426229639112779,0.4008979948379402,0.1728723660492805,True
+4578,Mojh par ik ehsaan karna k moj par koe ehsman na karna,Mojh par ik ehsaan karna k moj par koe ehsman na karna,1,1,0.23377928232789846,0.4795303934501217,0.28669032422198,True
+2844,Salmannnnn aaa intezaar idhar ? tere liye ?,Salmannnnn aaa intezaar idhar ? tere liye ?,1,0,0.6200611776852534,0.20755557722574225,0.172383245089004,False
+2190,raat k 12 bje b kr lenge ...ap aao to sahi,raat k 12 bje b kr lenge ...ap aao to sahi,1,1,0.2882315430894414,0.4321237078611183,0.2796447490494407,True
+730,Please Salman sir. Is garib ke lye bhi time nikalen aapse milne ka apointment den,Please Salman sir. Is garib ke lye bhi time nikalen aapse milne ka apointment den,1,1,0.3168225724431959,0.4717319028469674,0.21144552470983702,True
+39,Modi jigood preiminister hia,Modi jigood preiminister hia,2,2,0.17167496771095003,0.2081788349891941,0.6201461972998562,True
+4353,Shadi kr lo wrna firr na hogi,Shadi kr lo wrna firr na hogi,1,1,0.23679439015759365,0.4527919073380528,0.3104137025043532,True
+2846,Bhai roja ramdan me weit nhi karwate,Bhai roja ramdan me weit nahi karwate,1,1,0.3484439588593371,0.4355702139295873,0.21598582721107576,True
+2177,dear friend....... ek kaam karte hain ........ 4 baje hi baat karte hain,dear friend....... ek kaam karte hain ........ 4 baje hi baat karte hain,1,2,0.13797368340348176,0.375369453917867,0.48665686267865077,False
+893,ara bhai jaan hum bhi to aap ke bhai hai chote bhai jaan...,ara bhai jaan hum bhi to aap ke bhai hai chote bhai jaan...,2,1,0.16854076793313438,0.44945910189713545,0.38200013016973033,False
+4602,Sale sab accha krta he agar comment pad rha he to sonle kuch logo ka dil bhi bohot bura todhta he ab tak sare first show dekhe lekin isbaar tone dil todhdiya sallo,Sale sab achha krta he agar comment pad rha he to sonle kuch logo ka dil bhi bahut bura todhta he ab tak sare first show dekhe lekin isbaar tone dil todhdiya sallo,0,0,0.5865669634247416,0.18744390585193169,0.2259891307233265,True
+2609,Kaha par hai,Kaha par hai,1,1,0.25326027519815214,0.5803908577438207,0.16634886705802715,True
+2661,4:04 over,4:04 over,1,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,True
+3766,Sab log sun lo salman bhai rat ke 10 bje aayenge,Sab log sun lo salman bhai rat ke 10 bje aayenge,2,1,0.1572325684285664,0.4952085552924812,0.3475588762789528,False
+2150,Bhai bhai bhai bhai.......love u bhai.....,Bhai bhai bhai bhai.......love u bhai.....,2,2,0.01915297536275239,0.20280680960491076,0.7780402150323376,True
+1578,Bhai jakaass bhai insallha super hit. ...,Bhai jakaass bhai insallha super hit. ...,2,2,0.04080020245637219,0.18284392455955395,0.776355872984074,True
+590,paye kuppi puthe vichil,paye kuppi puthe vichil,1,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,True
+2166,bhai 3:30 tha time to,bhai 3:30 tha time to,1,1,0.18655720162567566,0.6006311180551279,0.21281168031919612,True
+2968,Bhi kab awogi do din sa khaya nai pleace bhi aa jao,Bhi kab awogi do din sa khaya nahi pleace bhi aa jao,1,1,0.4243671901515031,0.47655616827749125,0.09907664157100564,True
+152,desh gourav badha rahe ho ayushman bhav,desh gourav badha rahe ho ayushman bhav,2,1,0.2850986756339074,0.49207506649878296,0.2228262578673096,False
+4678,Muslman bolte huwe saram aa rahi hai,Muslman bolte huwe saram aa rahi hai,0,1,0.29850779317656756,0.4374203835445769,0.26407182327885503,False
+4703,faddu trailer bhaijaan. ...,faddu trailer bhaijaan. ...,2,2,0.05111192443814737,0.42098126882835935,0.5279068067334933,True
+190,Jiao hind jai bharat,Jiao hind jai bharat,2,2,0.04726663731990715,0.11798569269645046,0.8347476699836422,True
+2008,Bhaijan hum appka wait kar rahe hai pls ao,Bhaijan hum appka wait kar rahe hai please ao,1,1,0.16514935199317363,0.6353670058007078,0.19948364220611894,True
+692,Isko itna time knha hoga k aap sab ko comments par nazar daleHa ha ha ha ha ha,Isko itna time knha hoga k aap sab ko comments par nazar daleHa ha ha ha ha ha,2,1,0.31226422021999467,0.43401530382014936,0.25372047595985614,False
+908,Akbarudin ovasi ek Sacha Muslim he or tu sale Musalmano ke naam pe kalank he sale suvar jese saqal Vale,Akbarudin ovasi ek Sacha Muslim he or tu sale Musalmano ke naam pe kalank he sale suvar jese saqal Vale,0,0,0.7638137134005601,0.13312262174986036,0.10306366484957946,True
+878,Hi bhai aap kaise ho bhai aap ka fan h,Hi bhai aap kaise ho bhai aap ka fan hai,2,1,0.1371346416332736,0.4756472833333647,0.3872180750333615,False
+2849,Ab to aa jao jnab ...plz aajo,Ab to aa jao jnab ...plz aajo,1,1,0.26944322599150966,0.5126023698186648,0.2179544041898255,True
+4481,"Ha ha ,are yha animals kha se agye sb humans hye padli chshma lga ke dekh","Ha ha ,are yha animals kha se agye sb humans hye padli chshma lga ke dekh",0,1,0.34202851716827487,0.4264024589392876,0.23156902389243755,False
+2378,Yeh 7 min toh khatam hi nhi hote. Aap kaha ho jaldi aa jao.,Yeh 7 min toh khatam hi nahi hote. aap kaha ho jaldi aa jao.,1,1,0.26091529511503253,0.6044458552444766,0.13463884964049128,True
+710,Thik h bahi jaan ham ko bhul gye naa,Thik hai bahi jaan ham ko bhul gye naa,0,2,0.27498222987718224,0.3529314458203033,0.37208632430251465,False
+119,Faltu time nahi hai,Faltu time nahi hai,0,0,0.5936827405354783,0.32358266677949676,0.08273459268502513,True
+2490,please help me mein fb page par chat kese karu salman bhai ke sath??,please help me mein fb page par chat kese karu salman bhai ke sath??,1,1,0.13556183965672194,0.6363879239862464,0.2280502363570319,True
+2468,1 min bhaai,1 min bhaai,1,1,0.13202928734152905,0.4665085638734227,0.40146214878504805,True
+4755,mast bhai jaan,mast bhai jaan,2,2,0.030955977189630477,0.30361649923018164,0.6654275235801875,True
+1870,are op logo bap hai bel hai,are op logo bap hai bel hai,1,1,0.3342741853397161,0.41308425316148834,0.25264156149879524,True
+3510,Kya hai yar ye!!,Kya hai yar ye!!,1,1,0.393642023052378,0.42977930862281266,0.17657866832480928,True
+4568,Hum iske baap hai,Hum iske baap hai,0,1,0.32447210580430436,0.40190144793137306,0.27362644626432225,False
+1925,Jumme ki Shayam bhai k sath,Jumme ki Shayam bhai k sath,1,1,0.26378010980531996,0.3938893697812916,0.34233052041338863,True
+2777,Sir ji app ksy hoo???Hmlogo k apk flim k bauth din sa intyjar tha so..........Ap k film bajrangi bhaijan jarur dkhgy....We LOVE YOU.SALMAN Sir....,Sir ji app ksy hoo??Hmlogo k apk flim k bauth din sa intyjar tha so..........Ap k film bajrangi bhaijan jarur dkhgy....We LOVE YOU.SALMAN Sir....,1,2,0.08054219293601148,0.18361982751195358,0.735837979552035,False
+1525,koi kuch bhe khe ap hit ho,koi kuch bhe khe aap hit ho,2,2,0.2528253492509095,0.24081058552277373,0.5063640652263172,True
+556,Modi ji .....ye galat baat hai jo aapn 3 crore ka stage lagwa raha han ..... please think about it,Modi ji .....ye galat baat hai jo aapn 3 crore ka stage lagwa raha han ..... please think about it,2,2,0.2448130292549295,0.2932124052529453,0.46197456549212534,True
+1053,Rfta rfta dakho akh mari kadi h akh jisa lgi mera samna vo khda h i love you salman ji???????????,Rfta rfta dakho akh mari kadi hai akh jisa lgi mera samna vo khda hai i love you salman ji??,2,2,0.08362264710975358,0.1399551771748272,0.7764221757154189,True
+2129,yadi apse milana he to kya krna hoga,yadi apse milana he to kya krna hoga,1,1,0.27378645923180606,0.41734198781609244,0.30887155295210206,True
+4580,salman sir main aap kaa bahout bada fan hu please call me 7726066179,salman sir main aap kaa bahout bada fan hu please call me 7726066179,2,1,0.06010516451405297,0.6200791884900454,0.31981564699590215,False
+1208,bhosdiwalo bhai ke khilaf kuch galt mat bolo tumhari life jhand krdunga me mc harami log,bhosdiwalo bhai ke khilaf kuch galt mat bolo tumhari life jhand krdunga me mc harami log,0,0,0.4998554211284276,0.294230428139222,0.20591415073235048,True
+2289,bhai just ek baar hi bol do,bhai just ek baar hi bol do,1,1,0.12983932571979498,0.5486684946064462,0.3214921796737586,True
+3725,Apki ek mve ko itni bheed me ladke tck lekar or dosto ki bheed leke 3 3 time mve dekne jata hu or ap ho ki...,Apki ek mve ko itni bheed me ladke tck lekar or dosto ki bheed leke 3 3 time mve dekne jata hu or aap ho ki...,2,2,0.32801773942084883,0.2662290907169943,0.4057531698621571,True
+2596,Hello bade bhaijAAN,Hello bade bhaijAAN,1,1,0.0483887946513826,0.5698053876349612,0.38180581771365596,True
+1657,bhaijaan aslam valekum,bhaijaan aslam valekum,1,1,0.06082684856584192,0.4849494345629091,0.454223716871249,True
+3647,lagta hai aap bahut busy ho par please ek bar bata do dete sir,lagta hai aap bahut busy ho par please ek bar bata do dete sir,1,1,0.163556703121733,0.5429617781193137,0.2934815187589536,True
+2394,sachi salman hm to din se wait me hai ki apse baat kar pay,sachi salman hm to din se wait me hai ki apse baat kar pay,1,1,0.27712608207937106,0.44934884728592267,0.27352507063470655,True
+3710,Reply krdo bhaaaaaaaaaaaaaaaai,Reply krdo bhaaaaaaaaaaaaaaaai,2,1,0.11137365020851865,0.5699164058816791,0.3187099439098022,False
+1096,Movie flop ham sab ke tarfse aap ko bhai mmubarak,Movie flop ham sab ke tarfse aap ko bhai mmubarak,0,0,0.42868949213784135,0.28131401286257623,0.28999649499958235,True
+2854,"kaya huya, kaha hai app,hum logo ko murga to nehe banareha hai?","kaya huya, kaha hai app,hum logo ko murga to nehe banareha hai?",1,1,0.36349555871134376,0.4175284929481774,0.21897594834047904,True
+4941,Salman i love you pleze camm amaroc pleze i love you salman pleze camme pleze,Salman i love you pleze camm amaroc pleze i love you salman pleze camme pleze,2,2,0.02556075920853629,0.10216285661320483,0.8722763841782583,True
+242,Sir ji kamal kardi apne vides me bhi.,Sir ji kamal kardi apne vides me bhi.,2,1,0.16888294047907182,0.5055371626716468,0.32557989684928107,False
+376,India ka hal aisa hote jaiega to india may koi educated person nehi nicklegi,India ka hal aisa hote jaiega to india may koi educated person nehi nicklegi,0,0,0.5633976437268913,0.19813082339714902,0.23847153287595887,True
+1712,Apne glat kiya humlogo k sath,Apne glat kiya humlogo k sath,0,1,0.3134951139377531,0.4365979114174765,0.24990697464477024,False
+2571,Abhi nai bhai,Abhi nahi bhai,1,1,0.3236446452980387,0.4823932114381757,0.1939621432637855,True
+3612,Kya bakvas hai yar,Kya bakvas hai yar,2,1,0.2929455950400023,0.5094998110804123,0.19755459387958535,False
+1258,hume bhi party chahiye,hume bhi party chahiye,1,1,0.3049867340366281,0.4712907269341205,0.22372253902925116,True
+4482,Mene kitni bar smjhaya tha rat ko chashma mt nikala kro animals njr ate hye ap ko firr,Mene kitni bar smjhaya tha rat ko chashma mt nikala kro animals njr ate hye aap ko firr,0,0,0.3707581319381501,0.3611203352190126,0.2681215328428376,True
+3011,Sala.. Terko dusron k time ki kimat mi hai..,Sala.. Terko dusron k time ki kimat mi hai..,1,0,0.6918525507784408,0.1855501060730149,0.12259734314854413,False
+2760,Bhaii aao na kha ho,Bhaii aao na kha ho,1,1,0.1265007123216631,0.6580563008360202,0.2154429868423164,True
+423,kise kaam.ki.nh hai jo ..,kise kaam.ki.nh hai jo ..,0,0,0.5097807783201946,0.2645992001598094,0.22562002151999602,True
+2916,abhi tk kyu nhi aye aap salman sir??$$$$ dieing to tlc to u.......,abhi tk kyun nahi aye aap salman sir?? dieing to tlc to u.......,1,1,0.3908007314028872,0.423476785896034,0.18572248270107874,True
+2332,Ami tomar sathe kotha bolte chai Bhaijaan.,Ami tomar sathe kotha bolte chai Bhaijaan.,1,1,0.09030857692929861,0.4716307970265291,0.4380606260441722,True
+4631,bad karna chahti hun mud thik nahi hai sab so rahe hai mammy aur chhoti bhan college jane ke liye jaldi uthti hai aur rat me bhi 12 1 baj jata hai sote isliye dophar me so jati hai papa bhi so rahe hai,bad karna chahti hun mud thik nahi hai sab so rahe hai mammy aur chhoti bhan college jane ke liye jaldi uthti hai aur rat me bhi 12 1 baj jata hai sote isliye dophar me so jati hai papa bhi so rahe hai,1,1,0.3754201844220606,0.39848514421009557,0.22609467136784395,True
+2460,Salman bhai ap vadio chat kro gy,Salman bhai aap vadio chat kro gy,1,1,0.07814941236468001,0.5009283480335167,0.4209222396018038,True
+3182,Ap tak pakistan si snd ki hov cheez pohnch jata ha ya nhe,aap tak pakistan si snd ki hov cheez pohnch jata ha ya nhe,1,1,0.23972197750535632,0.5216096339118752,0.23866838858276887,True
+4540,300crore aram se kama legi,300crore aram se kama legi,2,1,0.26263978056114984,0.40883884761806866,0.3285213718207815,False
+4616,Mai tho supper man salmaan ka fan Jo leve panga kardo ma bhean I'd Mubarak sir,Mai tho supper man salmaan ka fan Jo leve panga kardo ma bhean I'd Mubarak sir,2,2,0.2661292744470917,0.337261227119673,0.3966094984332353,True
+54,"Modi tujhe jaan se maarna mera kaam hai , main Khalistani huuuuuuu","Modi tujhe jaan se maarna mera kaam hai , main Khalistani huuuuuuu",0,2,0.2344282965154638,0.2545134957043287,0.5110582077802077,False
+2112,aur galti tumhari nahi hai pyar koi karta nahi ho jata hai tumhe hua hi nahi mai isliye milne ke liye gidgidate rahti hun tumhe koi phark nahi padta,aur galti tumhari nahi hai pyar koi karta nahi ho jata hai tumhe hua hi nahi mai isliye milne ke liye gidgidate rahti hun tumhe koi phark nahi padta,1,0,0.6204140004561802,0.24406836338863488,0.13551763615518486,False
+2803,Salman khan pagal hai,Salman khan pagal hai,1,0,0.4761740079780114,0.2513351515285873,0.2724908404934013,False
+3027,Bhai. Shahid ki shaadi mein nai gaye. ? ??,Bhai. Shahid ki shaadi mein nahi gaye. ? ??,1,1,0.38120941295006155,0.4221544953432007,0.19663609170673774,True
+2285,"you are great,Bhaijaan......love u bhai,love u bhai,love u bhailove u bhai,love u bhai,love u bhai,love u bhai,love u bhai,-V E R Y MUCH....","you are great,Bhaijaan......love u bhai,love u bhai,love u bhailove u bhai,love u bhai,love u bhai,love u bhai,love u bhai,-V E R Y MUCH....",2,2,0.018029467072553734,0.1951743547710753,0.786796178156371,True
+3627,bhai ap mjhe chnce nhi dena bt humre liye liye rply kr do bhai,bhai aap mjhe chnce nahi dena bt humre liye liye rply kr do bhai,1,1,0.2918188512066053,0.49377177156732055,0.2144093772260742,True
+596,Ye batao 60 Saal main congress ne kya kiya ;),Ye batao 60 Saal main congress ne kya kiya ;),2,0,0.4837416671394011,0.35305740090120835,0.1632009319593909,False
+217,modi ji bangladash sa sab hendu ko india ma la chaleya plz eha musalman hendu ka vume dakal karlata ha or ve bahot aneti karta ha,modi ji bangladash sa sab hendu ko india ma la chaleya please eha musalman hendu ka vume dakal karlata ha or ve bahut aneti karta ha,1,2,0.32548857031569006,0.22106511682676985,0.4534463128575401,False
+482,Ye photographer thak gya h kya .. blurred photo aayi h ...,Ye photographer thak gya hai kya .. blurred photo aayi hai ...,1,1,0.3764052406529659,0.4205256043191584,0.20306915502787562,True
+236,modi ji jay ram ji ki,modi ji jay ram ji ki,2,2,0.26070494710950354,0.13959320344204398,0.5997018494484526,True
+2683,Salman plz cm?,Salman please cm?,1,1,0.09314929226865562,0.5813662328515392,0.325484474879806,True
+4862,Owsome look bhaijan,Owsome look bhaijan,2,1,0.09484757017616849,0.5142812621006899,0.39087116772314173,False
+915,apne aap ko kya samjhte ho mushalman ko challage dete ho ab dekho hum mushlman bhi kuch kam nai he,apne aap ko kya samjhte ho mushalman ko challage dete ho ab dekho hum mushlman bhi kuch kam nahi he,0,0,0.3961881811993528,0.37878573184386927,0.22502608695677817,True
+2208,#aaj #sabhi #superhits film.dekhane chale #bbthiseid #superdupar film,aaj sabhi superhits film.dekhane chale bbthiseid superdupar film,1,0,0.41356976977353677,0.24651625454674744,0.33991397567971615,False
+4694,I m from nasik bhai... main sirf aur sirf aapko milne mumbai aaya tha...,I m from nasik bhai... main sirf aur sirf aapko milne mumbai aaya tha...,2,1,0.15500023437637755,0.48893468681344626,0.35606507881017596,False
+2646,Salman bhai zinda baad aur Un k dosuman mordabaad kon kon is se zehmat hia,Salman bhai zinda baad aur Un k dosuman mordabaad kon kon is se zehmat hia,1,1,0.34890999184091936,0.3665162261124647,0.28457378204661554,True
+4855,agar kar sakte ho to ye kar ke dikhao,agar kar sakte ho to ye kar ke dikhao,1,0,0.41817797631294,0.3505502426370732,0.23127178104998716,False
+597,Desh chodo pahaley yeh media ko change Karo ... !! ?,Desh chodo pahaley yeh media ko change Karo ... !! ?,1,0,0.554483452088397,0.2161166165705133,0.22939993134108982,False
+802,Kiya bhai jaan,Kiya bhai jaan,1,2,0.1358425025169849,0.31380161327385886,0.5503558842091559,False
+400,Pm ky sath videsh mantri bhi h modi,Pm ky sath videsh mantri bhi hai modi,1,2,0.17558228035508675,0.2613049601803325,0.5631127594645807,False
+3865,bai  g  kab  aooo  ge online,bai g kab aooo ge online,2,1,0.10952229052550991,0.672101181479024,0.21837652799546647,False
+1825,ap b piyray ap ka gana b piya ho ga am frm pakistan,aap b piyray aap ka gana b piya ho ga am frm pakistan,1,1,0.21517514513379823,0.43765402265953773,0.3471708322066644,True
+1834,Bhaijaan to gud Bhai aap bahut achche insan he,Bhaijaan to gud Bhai aap bahut achche insan he,2,2,0.12385213452110876,0.38499435065180654,0.4911535148270851,True
+3762,aisi ummeed nhi thi aapse bhaijaan. . DIL tod diya sbka :-(,aisi ummeed nahi thi aapse bhaijaan. . DIL tod diya sbka :-(,2,1,0.34788408511264385,0.41725485814186636,0.2348610567454901,False
+1038,ALLAH aap ko har taraf se kameyabi de,ALLAH aap ko har taraf se kameyabi de,2,2,0.28120288448918196,0.33255981455506034,0.38623730095575765,True
+3144,bhai 1 reply asssalamalaikum,bhai 1 reply asssalamalaikum,1,1,0.05852835270927564,0.5414887065435716,0.3999829407471526,True
+1965,Radhe bhai aa bhi jaye ..,Radhe bhai aa bhi jaye ..,1,1,0.08414452952799892,0.6411308782784569,0.27472459219354384,True
+4648,bhai jaan ead mubarak supose 6caror in bajrangi bhaijaan,bhai jaan ead mubarak supose 6caror in bajrangi bhaijaan,2,2,0.04399440134683975,0.33969154088279796,0.6163140577703617,True
+2201,kya bhai sb kaam nipta kr aya tha ap se bt krne 3:30 ko or ab ap 4 pm.. chlo koi nhi ab 4 bjne ka wait krte h :-),kya bhai sb kaam nipta kr aya tha aap se bt krne 3:30 ko or ab aap 4 pm.. chlo koi nahi ab 4 bjne ka wait krte hai :-),1,1,0.2998644592787018,0.39747996340373487,0.30265557731756315,True
+1984,Nhi aane wale aap pta h. Sbko hhahah,nahi aane wale aap pta h. Sbko hhahah,1,1,0.38352764358725233,0.41151188734925664,0.20496046906349102,True
+227,Jai hind modi ji,Jai hind modi ji,2,2,0.12569150101183796,0.10456575499135125,0.7697427439968106,True
+416,"Pehli bar desh ki ""AAN BAN SHAN""dikhth he , jispe hame ""NAZ"" he.salam to p.m.","Pehli bar desh ki AAN BAN SHAN dikhth he , jispe hame NAZ he.salam to p.m.",2,0,0.371632071979169,0.2883510748861103,0.340016853134721,False
+669,Sona last time tu jab ayi thi tab kitna kuch kiya bas ab 1 chij bach gya hai tu aa ja jaldi plzzzz,Sona last time tu jab ayi thi tab kitna kuch kiya bas ab 1 chij bach gya hai tu aa ja jaldi plzzzz,1,0,0.5508747556623237,0.3413133259415848,0.10781191839609089,False
+3886,hum bajarng bali k bhakt h or hum kbi juth nhi bolte .....kyo bhai ...,hum bajarng bali k bhakt hai or hum kbi juth nahi bolte .....kyo bhai ...,1,1,0.3632717066746149,0.3725939315987805,0.2641343617266046,True
+447,Thank you sir apka yatra se desh ko jarur fayada hoga hame garv hai app par aur apaki nitiyo par,Thank you sir apka yatra se desh ko jarur fayada hoga hame garv hai app par aur apaki nitiyo par,2,2,0.26879397752234796,0.20794021845680852,0.5232658040208437,True
+985,Assalamu Alaikum Salman KhanHum aapke fans chaahte hai ki aap ek baar haj ya umra karke aaye . Inshaa Allah aapki life ki mushkile aasaan hojaaye . Aameen.,Assalamu Alaikum Salman KhanHum aapke fans chaahte hai ki aap ek baar haj ya umra karke aaye . Inshaa Allah aapki life ki mushkile aasaan hojaaye . Aameen.,2,2,0.2801469072554619,0.2745481495976064,0.44530494314693175,True
+3264,Tek ha ap is.waqt bht bzi ha,Tek ha aap is.waqt bht bzi ha,1,1,0.27586840581865657,0.3802298230426785,0.34390177113866516,True
+3748,kya bat karu ??  Bangladesh main jo Hindu k satha jo horaha hain... baat kar k kya hoga ??,kya bat karu ?? Bangladesh main jo Hindu k satha jo horaha hain... baat kar k kya hoga ??,1,1,0.2705089692133838,0.46206979821054905,0.2674212325760673,True
+47,"bhrat ko no.1 banne me ab jyada samy nahi lagega,, kyo ki modi ji jaisa pm bade bhagya se milte hai,,jo bharat ki rftar ko bdane me koi kasar nahi chodege,,,,,,,,,jai hind,,,,,,","bhrat ko no.1 banne me ab jyada samy nahi lagega,, kyo ki modi ji jaisa pm bade bhagya se milte hai,,jo bharat ki rftar ko bdane me koi kasar nahi chodege,,,,,,,,,jai hind,,,,,,",2,2,0.3268062972028786,0.1207196535579894,0.5524740492391319,True
+1632,eid mubarak lakin es br eddi bhi chaiyea,eid mubarak lakin es br eddi bhi chaiyea,1,2,0.06566723856961021,0.31517877929005667,0.6191539821403325,False
+3644,Na kro yr cmnts plz frnds,Na kro yr cmnts please frnds,2,1,0.11530920117407066,0.6853871411795376,0.19930365764639185,False
+715,sem 2 u,sem 2 u,1,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,True
+4231,keep calm Salman bhaii....we r alwyzz wid uh...Salmania rockd...haters shockd....love uhhh bhai:-),keep calm Salman bhaii....we r alwyzz wid uh...Salmania rockd...haters shockd....love uhhh bhai:-),2,2,0.052344119055497434,0.24090649435208372,0.706749386592419,True
+4764,Abey thuuuu hai tujh par teri film par aur tere trailer par.,Abey thuuuu hai tujh par teri film par aur tere trailer par.,0,0,0.7234419412549404,0.1078448375206357,0.1687132212244239,True
+1898,Lagta hai jaise jamana beet gaya par 3:30 nai hone wale aaj !!!,Lagta hai jaise jamana beet gaya par 3:30 nahi hone wale aaj !!,1,1,0.43421149820431104,0.45417343821720285,0.1116150635784862,True
+135,"Sir, Namaskar. Mai Bihar se hun aur aapka jabardash prasansak hu, Aap jo desh ke liye niswarth bav se kam kar rahe hai, aapko sadaib best p.m ke roop me jana jaega. salute to you sir.","Sir, Namaskar. Mai Bihar se hun aur aapka jabardash prasansak hu, aap jo desh ke liye niswarth bav se kam kar rahe hai, aapko sadaib best p.m ke roop me jana jaega. salute to you sir.",2,2,0.1558490581383567,0.27058316592853726,0.573567775933106,True
+1515,m musalman ladki se shadi krna chata hu mare age 25 hai 9818463635 plz col me shadi pka karuga ok plz col me,m musalman ladki se shadi krna chata hu mare age 25 hai 9818463635 please col me shadi pka karuga ok please col me,1,1,0.30148679376920595,0.5458655297809675,0.1526476764498268,True
+4617,film ka story mast he aur aap bhi mast ho............,film ka story mast he aur aap bhi mast ho............,2,2,0.3079280594531108,0.30940628404845893,0.38266565649842993,True
+1149,Kise khushi main party de hai aap ne apne kaha tha aap sare comment padhte ho to ek reply to banta hai,Kise khushi main party de hai aap ne apne kaha tha aap sare comment padhte ho to ek reply to banta hai,1,1,0.2698745931850105,0.49551441044558486,0.2346109963694045,True
+2218,bas aapko milne ki khwaish hai Inshallah agar zindagi rahi to Allah wo bhi puri krdega Inshallah...,bas aapko milne ki khwaish hai Inshallah agar zindagi rahi to Allah wo bhi puri krdega Inshallah...,1,0,0.3755654776760757,0.2982522603983957,0.32618226192552885,False
+1800,Raksha Shinde SALMAN insha Allah zaror help karenge...,Raksha Shinde SALMAN insha Allah zaror help karenge...,1,2,0.21130764752734804,0.3014835394126794,0.487208813059972,False
+2157,Omg aur 30 minuts..,Omg aur 30 minuts..,1,1,0.0953560705195444,0.6243786623387593,0.2802652671416964,True
+545,Aapki skill scheme bhut achi helog kam krna sikhenge to km se km berojgar to ni rhenge....Thanks to pm for it,Aapki skill scheme bahut achi helog kam krna sikhenge to km se km berojgar to ni rhenge....Thanks to pm for it,2,2,0.35559418945634863,0.27068435935442553,0.3737214511892257,True
+2390,plzz slaman jrur aana onlin or plzz jrur baat krna apne fans se plzzz..plzzzz...,please slaman jrur aana onlin or please jrur baat krna apne fans se plzzz..plzzzz...,1,1,0.15961558149310134,0.6325412586210838,0.20784315988581514,True
+474,Future ki baat mat karo .Hamara aaj bigad raha hai.,Future ki baat mat karo .Hamara aaj bigad raha hai.,0,0,0.6205785360931186,0.2523982456656864,0.12702321824119495,True
+1714,bhai 4 baj gye,bhai 4 baj gye,1,1,0.04302685768697852,0.7770493283974903,0.17992381391553175,True
+3982,md.intjar.malik. bajrangi.bhijane. .i love.you. (786). bhijane.apki.film. no: 1 hogi. bhijane.mujko call.karo. 8868026194.,md.intjar.malik. bajrangi.bhijane. .i love.you. 786 . bhijane.apki.film. no: 1 hogi. bhijane.mujko call.karo. 8868026194.,2,2,0.06979743625766888,0.1144874492079777,0.8157151145343534,True
+2267,Sb bolte h mai apka bht bda fan hun lkn apki fan nhn apki ac hun plz jzt 1responce like cmnt kch v ek br mra naam h bol do bs wai kaafi h,Sb bolte hai mai apka bht bda fan hun lkn apki fan nhn apki ac hun please jzt 1responce like cmnt kch v ek br mra naam hai bol do bs wai kaafi hai,1,1,0.11298961488364498,0.46135895477464905,0.42565143034170644,True
+2899,apko ana padega,apko ana padega,1,2,0.12867823763880323,0.4024902342907285,0.4688315280704679,False
+1375,very dhamaka song pichli baar jumme ki raat &iss baar party ki raat wow..party aapki taraf se iss party mehi kick hai...,very dhamaka song pichli baar jumme ki raat iss baar party ki raat wow..party aapki taraf se iss party mehi kick hai...,2,2,0.2739842721144376,0.2708562858474668,0.4551594420380956,True
+736,I Iike and love u salman khan aur ha kya such me aap hamare comment padhte ho aap tv par bol rahe the mai sare comment padhta hu ya u hi fake rahe the bhai ??,I Iike and love u salman khan aur ha kya such me aap hamare comment padhte ho aap tv par bol rahe the mai sare comment padhta hu ya u hi fake rahe the bhai ??,2,2,0.27036007789097244,0.15108291323044074,0.5785570088785867,True
+2277,Bhai aapko sabke comment mile honge par mai ye aapse kahna chahta hu ki aap eid par mere ghar aaao or sewainya kha lo or ek bahut jaruri baat aapko batana h mujhe aapke reply ka wait rahega,Bhai aapko sabke comment mile honge par mai ye aapse kahna chahta hu ki aap eid par mere ghar aaao or sewainya kha lo or ek bahut jaruri baat aapko batana hai mujhe aapke reply ka wait rahega,1,1,0.24866400328203284,0.41693198315603514,0.334404013561932,True
+3812,bhai kaha ho ap hum mar jyge,bhai kaha ho aap hum mar jyge,2,1,0.07711989135839269,0.6663215296427869,0.25655857899882034,False
+1203,chup baith zaleel tu musalman nahi hai aur tu ek c***tiya hai mada****d,chup baith zaleel tu musalman nahi hai aur tu ek c tiya hai mada d,0,0,0.6874634658769397,0.20668479420890448,0.1058517399141559,True
+318,mene ap ke paas mail kiya hai mughhhhhe aap se answer chahiye,mene aap ke paas mail kiya hai mughhhhhe aap se answer chahiye,1,1,0.3304106535700188,0.4347262165230417,0.23486312990693928,True
+3406,Bhai jaan 4.30 pm ho gaiya hai ab to online avo kitna wait karvoga,Bhai jaan 4.30 pm ho gaiya hai ab to online avo kitna wait karvoga,1,1,0.18042364094024266,0.5496201749284717,0.26995618413128547,True
+3223,bhai fans ka dil na todo aa jao,bhai fans ka dil na todo aa jao,1,1,0.14899584800152602,0.5920150327064175,0.25898911929205676,True
+607,Sale salman khan abki dekhna hai ki teri pic kaise hit hogi bina muslim ke sale tum log muslim per daag ho,Sale salman khan abki dekhna hai ki teri pic kaise hit hogi bina muslim ke sale tum log muslim per daag ho,0,0,0.7147561598930361,0.10824603369747607,0.1769978064094874,True
+2410,ok ap chahe 5pm pe aana par online hona,ok aap chahe 5pm pe aana par online hona,1,1,0.291829241672843,0.4674410073858642,0.2407297509412928,True
+1833,hur hur dabangg dabangg dabangg ..... Bajrangi bhaijan,hur hur dabangg dabangg dabangg ..... Bajrangi bhaijan,2,2,0.12930508115580666,0.43157457677444694,0.43912034206974626,True
+3010,Salman Khan Facebook py nh hen. Unho ny apny interviw me kaha tha.,Salman Khan Facebook py nh hen. Unho ny apny interviw me kaha tha.,2,1,0.31090302419855015,0.4534729459878175,0.2356240298136322,False
+41,Jan Jan ka viswas kam ho na jai hind,Jan Jan ka viswas kam ho na jai hind,1,2,0.2234699930072658,0.24337133067234987,0.5331586763203839,False
+3177,ghar pe milne aavo.time bolo,ghar pe milne aavo.time bolo,1,1,0.17482120136615018,0.5714603200872009,0.2537184785466485,True
+330,PM Saab aapkey swatch BHARAT mission ke Himachal Ki Raajdhaani sey ek tasweer bhejee hai mainey kal. Usey jarur dekh Lena,PM Saab aapkey swatch BHARAT mission ke Himachal Ki Raajdhaani sey ek tasweer bhejee hai mainey kal. Usey jarur dekh Lena,1,2,0.15245518219716062,0.23655596355889463,0.6109888542439447,False
+4717,Jabrdsth bhai jaan..,Jabrdsth bhai jaan..,2,2,0.031533870139142044,0.3262650520478086,0.6422010778130488,True
+594,jai bajrang bali..,jai bajrang bali..,2,2,0.09202882566585628,0.27308283198340405,0.6348883423507394,True
+4487,salman bhai bhool gye kya,salman bhai bhool gye kya,0,1,0.07676208401213154,0.5827508380687084,0.3404870779191606,False
+2546,Yr salu bhai jaldi idhr pk m loadshafing hojaegi :D,Yr salu bhai jaldi idhr pk m loadshafing hojaegi :D,1,1,0.05299222513378435,0.6638736320287124,0.28313414283750354,True
+2804,lgta hai bhai ka watch slow hai ;-),lgta hai bhai ka watch slow hai ;-,1,2,0.21784032470806924,0.37824609641101303,0.40391357888091717,False
+2288,Kaise muge bhi apse baat krni h ...,Kaise muge bhi apse baat krni hai ...,1,1,0.14487211410631454,0.5842292256192436,0.27089866027444265,True
+672,Main Hindu hu Bhai bajrang Bali bhi Hindu god hai gau mata ki Bali dete ho sir aur bajrangi banate ho,Main Hindu hu Bhai bajrang Bali bhi Hindu god hai gau mata ki Bali dete ho sir aur bajrangi banate ho,2,1,0.20547724190327935,0.3974848618604055,0.39703789623631525,False
+4094,zindagi bhar intezar bhaiiiii.....is duniya mein sirf aap ke liye,zindagi bhar intezar bhaiiiii.....is duniya mein sirf aap ke liye,1,0,0.36407086648912895,0.2996202088265831,0.3363089246842879,False
+1677,Bhi bol to ek nambar bollywood ka raja,Bhi bol to ek nambar bollywood ka raja,2,1,0.2730703239944932,0.4417200363126933,0.28520963969281365,False
+367,mai aap se milta chahta hu lekin mai mil nahi pawga,mai aap se milta chahta hu lekin mai mil nahi pawga,1,1,0.3244888674110285,0.5212369490590265,0.15427418352994457,True
+836,Salu bhai dabangg 3 kab release kar rahe ho,Salu bhai dabangg 3 kab release kar rahe ho,2,1,0.12487402397642197,0.6468807251844276,0.22824525083915012,False
+640,Salman ji hey,Salman ji hey,2,2,0.13497583327851195,0.307275147069538,0.5577490196519501,True
+1026,bb ki liye toh maine already bol rakha hai abi se,bb ki liye toh maine already bol rakha hai abi se,1,0,0.39441691548762736,0.38414375862009925,0.22143932589227328,False
+4697,hmm hrt touching moVieeee,hmm hrt touching moVieeee,2,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,False
+760,salman khan ji you looking owsm i love you salman me bta nhi skti ki me apki kitni bri fan hu ....,salman khan ji you looking owsm i love you salman me bta nahi skti ki me apki kitni bri fan hu ....,2,2,0.14586058634720933,0.18285681610716217,0.6712825975456286,True
+3299,Hi sallu baba,Hi sallu baba,1,2,0.11537092351088823,0.33335638319720945,0.5512726932919024,False
+581,Bhai jo apno se dur ho toh unka toh yahi ek zariya hai touch me rehne ka,Bhai jo apno se dur ho toh unka toh yahi ek zariya hai touch me rehne ka,2,1,0.30863719464265604,0.43859051188571374,0.25277229347163055,False
+1709,pandey ji always super hit mmmuuaaa,pandey ji always super hit mmmuuaaa,2,2,0.06141171162076559,0.14249673915289707,0.7960915492263372,True
+4789,luv u sir. wah sir kya baat Hai. lovely voice. superbbbbbbbbbb idea.,love u sir. wah sir kya baat Hai. lovely voice. superbbbbbbbbbb idea.,2,2,0.10074751890725224,0.24835522616172692,0.6508972549310207,True
+3752,Pehle main milna chahti hu,Pehle main milna chahti hu,1,1,0.09248651229081559,0.5643240976600833,0.34318939004910104,True
+310,good soch pm narendra modi,good soch pm narendra modi,2,2,0.14523827985669982,0.2210716586873185,0.6336900614559817,True
+2710,bhai india my 4 baj gy,bhai india my 4 baj gy,1,1,0.1703182785922877,0.5636899574889905,0.26599176391872187,True
+4555,Oooops wow yar,Oooops wow yar,2,1,0.13409807407311036,0.4761591172048914,0.38974280872199835,False
+3093,saaaaaavdhan salman bhai ko bulane ka formula laaya hoon... sirf 51 rupe do or sallu bhai se baat karo.. baba ka prasaad lo.. sirf 51 rupe,saaaaaavdhan salman bhai ko bulane ka formula laaya hoon... sirf 51 rupe do or sallu bhai se baat karo.. baba ka prasaad lo.. sirf 51 rupe,1,0,0.37352517053834977,0.31817450352147,0.3083003259401803,False
+539,Sir ab bihar me lalu nitish ka supda saf kro,Sir ab bihar me lalu nitish ka supda saf kro,1,1,0.35485389737431544,0.38729312900453783,0.25785297362114684,True
+4435,Tu madharchod hai,Tu madharchod hai,0,0,0.55381136886666,0.29575629736277986,0.15043233377055998,True
+4212,Bas dil pak ho bhale duinya kuch b kahe,Bas dil pak ho bhale duinya kuch b kahe,1,1,0.17086846752546891,0.5979647796249592,0.231166752849572,True
+2807,kaha ho...ji salman ab to kuch bolo na,kaha ho...ji salman ab to kuch bolo na,1,1,0.24005426005824732,0.49511793714347957,0.264827802798273,True
+854,bhai jan ekdam kadak,bhai jan ekdam kadak,2,1,0.04759139840866722,0.5085435260924914,0.4438650754988412,False
+856,Salman khan ki jai ho,Salman khan ki jai ho,2,2,0.3498035352461546,0.20129130451302032,0.44890516024082494,True
+4062,Tum kahe rahi ho oh fake hai agar real me aaye to tum kaise pahchano gi tum hahaha,Tum kahe rahi ho oh fake hai agar real me aaye to tum kaise pahchano gi tum hahaha,0,0,0.6363797621012957,0.2043302299082677,0.15929000799043583,True
+2048,Faltu log hi jayenge is harami ki movie dekhne isse kya pata Islam kya hai,Faltu log hi jayenge is harami ki movie dekhne isse kya pata Islam kya hai,0,0,0.5470853605098557,0.24371365933398248,0.20920098015616168,True
+4115,plz rpy jst wnt to meet u once hope u cme kolkata once,please rpy jst wnt to meet u once hope u cme kolkata once,1,1,0.17450589341337738,0.6056934780173413,0.21980062856928215,True
+1421,bhai jan kya baaaat haiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.,bhai jan kya baaaat haiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.,2,1,0.08104403726354725,0.5234165517443898,0.3955394109920629,False
+2491,Bhai kese hum ap se bat karsakeing.. Salman Khan,Bhai kese hum aap se bat karsakeing.. Salman Khan,1,1,0.22391235532748088,0.4658421909610983,0.31024545371142104,True
+1303,Sir me apka big big fan hu mujy apse call pe bt karni hai ek bar sir mera contact num 03356507139 Skype I.d abdul.rehman6731 plzzzz contact meabdul.rehman.sahabto,Sir me apka big big fan hu mujy apse call pe bt karni hai ek bar sir mera contact num 03356507139 Skype I.d abdul.rehman6731 plzzzz contact meabdul.rehman.sahabto,1,1,0.08664389710718651,0.527365319301987,0.38599078359082656,True
+656,ache se samjha ke chali gyi aur mai so gayi,ache se samjha ke chali gyi aur mai so gayi,1,1,0.3276879077785768,0.3533133840092883,0.3189987082121351,True
+2147,Ek bar Salman bhai n commitment krdi to fir wo kisi ki nhi sunte ..Sir y to galat baat h Kl s wait krhe h,Ek bar Salman bhai n commitment krdi to fir wo kisi ki nahi sunte ..Sir y to galat baat hai Kl s wait krhe hai,1,0,0.4069388371569602,0.3847905686919913,0.20827059415104854,False
+26,its not hindi its urdu and bolywood ager kamyab hai tu Urdu ki waja say,its not hindi its urdu and bolywood ager kamyab hai tu Urdu ki waja say,1,0,0.503579277040477,0.32905099184937003,0.167369731110153,False
+3663,Apke liye possible nai hai sbko persanaly reply krna to apne ek bar me sbko thanx bol diya..acha hai..,Apke liye possible nahi hai sbko persanaly reply krna to apne ek bar me sbko thanx bol diya..acha hai..,2,0,0.4060726656396559,0.4005391745684564,0.19338815979188792,False
+4395,Salman bhai i love you nikhil raj hemanshu raj nikhil par frend request kijiye ga salman bhai pls pls pls,Salman bhai i love you nikhil raj hemanshu raj nikhil par frend request kijiye ga salman bhai please please please,1,2,0.054703640233774005,0.3266752869906822,0.6186210727755437,False
+1041,Hi salman i'm sameer baloch in balochistan i'm biggggg fan of you,Hi salman i'm sameer baloch in balochistan i'm biggggg fan of you,2,2,0.05336313172466639,0.2225664081668349,0.7240704601084983,True
+2362,send naaa plZzzz,send naaa plZzzz,1,1,0.1323793772565865,0.45206810366662903,0.41555251907678425,True
+240,Koi fayda hai inko ye sab dikhane se????,Koi fayda hai inko ye sab dikhane se??,0,0,0.566391895990939,0.2725583703018232,0.1610497337072373,True
+2224,aj ki paty bhai ki tarafse,aj ki paty bhai ki tarafse,1,1,0.2665470924551958,0.39930296375359714,0.3341499437912075,True
+3384,1hr se ziyada hogaya bhai ki khabr nai hai,1hr se ziyada hogaya bhai ki khabr nahi hai,1,0,0.5107047382103342,0.3154671730789392,0.17382808871072633,False
+1547,mast hai bhai jaan,mast hai bhai jaan,2,2,0.059619027821294045,0.3697950223006745,0.5705859498780309,True
+4064,Bhaijaan kidar ho,Bhaijaan kidar ho,1,1,0.06761351544033327,0.6512960085332725,0.28109047602639414,True
+2631,aa jao sir 4 to kb ke baj gye,aa jao sir 4 to kb ke baj gye,1,1,0.1648442265144478,0.6429376762221222,0.1922180972634304,True
+4240,I know bhai Muslim kabhi kisi ke religion ke baare me galat nahi bolta.,I know bhai Muslim kabhi kisi ke religion ke baare me galat nahi bolta.,1,0,0.49110355875929335,0.2897332995478523,0.21916314169285436,False
+2619,Bhai majak tha kya? ;),Bhai majak tha kya? ;),1,1,0.15266053212844916,0.5583435749738014,0.2889958928977495,True
+3709,ye  l0... server d0wn,ye l0... server d0wn,0,0,0.3920474785098547,0.3326556767258277,0.2752968447643179,True
+3995,Hum thhak gaye bhai apka intazar kar k kar k hamari ungaliya b duk rahi hai typing karke,Hum thhak gaye bhai apka intazar kar k kar k hamari ungaliya b duk rahi hai typing karke,1,1,0.13678547953416523,0.6188891886227473,0.2443253318430876,True
+370,Narendra modi ji plz court me jo cases pending hai use jldi nyai mile aisi koi upai yojna kre,Narendra modi ji please court me jo cases pending hai use jldi nyai mile aisi koi upai yojna kre,0,2,0.2640196172547591,0.2919365128363186,0.4440438699089222,False
+76,Jai hind modi sir,Jai hind modi sir,2,2,0.12555624497974693,0.18777213354979166,0.6866716214704612,True
+2673,Salman..bhai ..aap dekh rahe ho kya kitne fans aapki wait kar rahe hai..just Hello to kehdo Sabko,Salman..bhai ..aap dekh rahe ho kya kitne fans aapki wait kar rahe hai..just Hello to kehdo Sabko,1,1,0.2541137101064217,0.40431605672320553,0.3415702331703729,True
+3107,Bhaijaan aap kaa ek reply mere liye bohot important hai kyuki mai aapka bhakt hu,Bhaijaan aap kaa ek reply mere liye bahut important hai kyuki mai aapka bhakt hu,1,1,0.07959722486682035,0.5877358829851259,0.33266689214805345,True
+4449,Pori dunya tumhari fan nahi hai to ziyada ochlo mat agar tum harai fan ho to wo sirf india or pakistan ho ga ya pir AK or mulk pori dunya nahi Mari sister tumhai pehlai like krtiti per ab nahi she is right you are salfish,Pori dunya tumhari fan nahi hai to ziyada ochlo mat agar tum harai fan ho to wo sirf india or pakistan ho ga ya pir AK or mulk pori dunya nahi Mari sister tumhai pehlai like krtiti per ab nahi she is right you are salfish,0,0,0.5102145044825146,0.22017330214384837,0.26961219337363673,True
+2155,Kya baat krni hai msg kr dena.. #Salmankhan,Kya baat krni hai msg kr dena.. Salmankhan,1,1,0.2438521739294565,0.4472555916361475,0.3088922344343958,True
+1751,Bhai cross 700cr pts increse,Bhai cross 700cr pts increse,2,1,0.060108004053736,0.5519237494685926,0.38796824647767136,False
+2002,Dekte hi kayse hit karta hi film Salman is kamina,Dekte hi kayse hit karta hi film Salman is kamina,0,2,0.35416838087509883,0.12370048700658036,0.5221311321183206,False
+4902,Apkeliya masig salman,Apkeliya masig salman,1,2,0.20242153962936332,0.3528130004716324,0.4447654598990042,False
+3139,bhai aapke answer k liy boht piche jana pdega,bhai aapke answer k liy boht piche jana pdega,1,1,0.060469796677006506,0.540617694818572,0.3989125085044215,True
+2216,wali qum Haslam....bhai ....! ramJaan Mubarak......! bajrangi bhaiJan....!,wali qum Haslam....bhai ....! ramJaan Mubarak......! bajrangi bhaiJan....!,1,2,0.08961959531237261,0.41394066921253014,0.49643973547509707,False
+4622,eid mubark salman bhai,eid mubark salman bhai,2,2,0.053882831695724095,0.4714646579151605,0.47465251038911616,True
+691,kiya kismat hai,kiya kismat hai,1,0,0.44334366783479073,0.36164092815465176,0.19501540401055759,False
+4716,Salman bhai ki produce ki huvi movie achi na ho ehsa ho hi ni skta....,Salman bhai ki produce ki huvi movie achi na ho ehsa ho hi ni skta....,2,1,0.349896021298084,0.4048918383325858,0.2452121403693304,False
+2294,Bhut pyar krte hai hum aapse...bs aur kuch nhi..,bahut pyar krte hai hum aapse...bs aur kuch nhi..,1,2,0.18483795606233605,0.3985028324831852,0.41665921145447876,False
+2244,Mile jab the hum tum yaad hai yaa bhul gye,Mile jab the hum tum yaad hai yaa bhul gye,1,0,0.3717213744198965,0.37147265635961857,0.2568059692204844,False
+2360,Jai ho bhai.,Jai ho bhai.,1,1,0.06108778327736888,0.5046727676181424,0.43423944910448825,True
+371,"Election jantak chunne k hota h ya neta juth bolte h bade2 wade karte h,lakin wahi'ENGRAGI SASAN'Ise badlega kon jise humne chunna h lakin wo badlega to wo satta sukh,bade2 ghotale,janta ka pesa janta k leya kyo pryoge nahi ja raha,","Election jantak chunne k hota hai ya neta juth bolte hai bade2 wade karte h,lakin wahi'ENGRAGI SASAN'Ise badlega kon jise humne chunna hai lakin wo badlega to wo satta sukh,bade2 ghotale,janta ka pesa janta k leya kyo pryoge nahi ja raha,",0,0,0.45941942938310737,0.3113012894151949,0.22927928120169733,True
+3809,Aajao na bhai kahe sarma rhe ho,Aajao na bhai kahe sarma rhe ho,2,1,0.14546689007751543,0.6066917990131294,0.24784131090935507,False
+1990,bhai 3.30 baj gaye hain...,bhai 3.30 baj gaye hain...,1,1,0.028646998194800256,0.8222571661223487,0.1490958356828513,True
+1678,main aapki bahu bahut bahut bahut bahut badi fan hu,main aapki bahu bahut bahut bahut bahut badi fan hu,2,2,0.07586895351329231,0.26825219744376255,0.6558788490429442,True
+234,modi ji. Assam and megalaya me ak khel hota he jiska nam he ter plz usha bond kijea.,modi ji. Assam and megalaya me ak khel hota he jiska nam he ter please usha bond kijea.,1,2,0.18242932927546932,0.30792300395011324,0.5096476667744172,False
+4045,Are kanjos ji aj to in sab se bat karo sab ko khush kar do itna to kar saktea ho ka nhe aj kanjosssssss mat bana plzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz salman khan plzzzzzzzz,Are kanjos ji aj to in sab se bat karo sab ko khush kar do itna to kar saktea ho ka nhe aj kanjosssssss mat bana plzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz salman khan plzzzzzzzz,0,0,0.4329136163670117,0.2972488204318144,0.2698375632011737,True
+2877,Bhaijaan kamaal karte ho,Bhaijaan kamaal karte ho,1,1,0.08430071434791753,0.6574514957284052,0.25824778992367714,True
+2356,aapko late aane ki aadat hai me janta hun... 4baje bhi sayad start nahi hoga...,aapko late aane ki aadat hai me janta hun... 4baje bhi sayad start nahi hoga...,1,0,0.5055547478909364,0.2816774285588154,0.21276782355024826,False
+4147,"Hello ""BAJRANGI BHAIJAAN""",Hello BAJRANGI BHAIJAAN,1,2,0.053221305428033376,0.36396419954055304,0.5828144950314139,False
+1320,Abey pakistaan ja kutte teri to hindi bhi sahi ni hai,Abey pakistaan ja kutte teri to hindi bhi sahi ni hai,0,0,0.7406845845741852,0.16072664862755728,0.0985887667982569,True
+2471,Aa jao bhaijaan,Aa jao bhaijaan,1,1,0.05142182712225404,0.6138161054728584,0.33476206740488723,True
+2278,3:30 p kyon nhu,3:30 p kyun nhu,1,1,0.16235867444464486,0.6348311278581312,0.2028101976972242,True
+1028,kal lakshmi mata ki aarti hogi subha ke waqt namaste jii,kal lakshmi mata ki aarti hogi subha ke waqt namaste jii,2,0,0.34393366062462327,0.3270093853622617,0.32905695401311513,False
+4525,suwar ka bacha,suwar ka bacha,0,0,0.5579705231033802,0.22397512755217225,0.2180543493444471,True
+2296,sir plz mujhe app apna bodygurd banalo plz sir,sir please mujhe app apna bodygurd banalo please sir,1,1,0.06317749367384114,0.7485247128559913,0.1882977934701681,True
+4186,Bhaijan apke sath dekhni hai filmBajrangi bhaijann,Bhaijan apke sath dekhni hai filmBajrangi bhaijann,1,2,0.20132127263483543,0.3762754281179711,0.4224032992471937,False
+2453,ok sallu 2mint letest,ok sallu 2mint letest,1,2,0.08696577581525249,0.363388498280319,0.5496457259044286,False
+2786,Ab aa jao sir 4 bj gye hm wait kr rhe h,Ab aa jao sir 4 bj gye hm wait kr rhe hai,1,1,0.13877472430081655,0.6476781366094604,0.213547139089723,True
+1681,Haste raho haste raho,Haste raho haste raho,2,2,0.15065218955206658,0.422908477043088,0.4264393334048452,True
+3447,Bahut log hai jo aapse baat karna chahte hai..plzzzzzz dn't brk thr hearts sir plzzzz,Bahut log hai jo aapse baat karna chahte hai..plzzzzzz dn't brk thr hearts sir plzzzz,1,1,0.2928624805862436,0.4087068502499964,0.29843066916375954,True
+2681,4 baj chuke hai salman,4 baj chuke hai salman,1,1,0.3205280083889847,0.511724856552541,0.1677471350584741,True
+2553,Bajrang bali ki jai,Bajrang bali ki jai,2,2,0.28174038215025,0.1717852248911324,0.5464743929586177,True
+3094,ye salman khan ki real id h ya sab fake h salman sir ko inna tym h ki wo aae or hum s baat kare i think its fake,ye salman khan ki real id hai ya sab fake hai salman sir ko inna tym hai ki wo aae or hum s baat kare i think its fake,1,0,0.6022887096484907,0.1822505093833203,0.21546078096818883,False
+1968,Sir apke sath jo little girl shooting Kar rahe he ek bar boo rath me shooting pe jane se pahle roone lage thi kya???plz reply me.,Sir apke sath jo little girl shooting Kar rahe he ek bar boo rath me shooting pe jane se pahle roone lage thi kya??plz reply me.,1,1,0.18196014925321227,0.4499425511659149,0.36809729958087334,True
+901,Kay kahna chah rahi ho,Kay kahna chah rahi ho,1,1,0.10371514886377119,0.6998091625799309,0.19647568855629743,True
+473,Sir g hum pad likh kar be barujgar ghum rhaye hain .....hun etni mahnat kar kye pade or etna padne k babjud be koi kaam nhi mil rha sab paise kye piche hain sir g ....plz hlp me sir g,Sir g hum pad likh kar be barujgar ghum rhaye hain .....hun etni mahnat kar kye pade or etna padne k babjud be koi kaam nahi mil rha sab paise kye piche hain sir g ....plz hlp me sir g,0,2,0.33637633130727995,0.3085895001373206,0.3550341685553996,False
+348,kyonki aapke baare main jaanta hu to aap bhi mere baare me saari jaankari jaane,kyonki aapke baare main jaanta hu to aap bhi mere baare me saari jaankari jaane,1,1,0.16916106544133241,0.5364343121378397,0.2944046224208282,True
+101,Wah modi sab,Wah modi sab,2,2,0.17065107570278407,0.19203729257922453,0.6373116317179915,True
+1909,salman ji ap kaha ho.plz ajao,salman ji aap kaha ho.plz ajao,1,1,0.07443845442751872,0.5096855778505199,0.4158759677219615,True
+4234,bhaijaan hume aap par pura barosa he....aap aisi baat kavi kaar hi nhi skte....lov u bhaijaan?????????,bhaijaan hume aap par pura barosa he....aap aisi baat kavi kaar hi nahi skte....lov u bhaijaan??,2,1,0.25216214688966315,0.4152740745436564,0.33256377856668073,False
+4280,dusroo ki ni khud ki suno.....koi na hatthii chalti h to kutte bahukktee h......,dusroo ki ni khud ki suno.....koi na hatthii chalti hai to kutte bahukktee h......,0,0,0.7014028162250157,0.1788122263118889,0.1197849574630953,True
+3619,Salman bhai ajao 200 comnt s kardie mene,Salman bhai ajao 200 comnt s kardie mene,2,1,0.06552227277474629,0.5187171167443796,0.41576061048087476,False
+532,Sabka sath sabka vikas...Gud,Sabka sath sabka vikas...Gud,2,2,0.09037939529615226,0.4014483812769277,0.5081722234269196,True
+3124,Bhai kuch kaam se busy honge wo jarur aayenge,Bhai kuch kaam se busy honge wo jarur aayenge,1,1,0.24632167894761045,0.4894915072654095,0.2641868137869801,True
+3631,bhai apna time barabaad mat karo kisi ko koi rply nai milne wala,bhai apna time barabaad mat karo kisi ko koi rply nahi milne wala,0,0,0.6511642407294551,0.23209638351382306,0.11673937575672198,True
+3705,sir ticket k paise ni hai 2 ticket bhejo,sir ticket k paise ni hai 2 ticket bhejo,2,0,0.4740137880449125,0.3423556288432164,0.18363058311187117,False
+1220,Chor hai madarchod salman,Chor hai madarchod salman,0,0,0.4144173579452252,0.31948163280761727,0.2661010092471572,True
+3073,Kya bhai kahi koi item toh nahi mil gayi kya,Kya bhai kahi koi item toh nahi mil gayi kya,1,0,0.4346605986434062,0.4000025779304908,0.16533682342610315,False
+2828,4 indian standard timing means 4:15 ? Pranam bhai ? ..,4 indian standard timing means 4:15 ? Pranam bhai ? ..,1,1,0.07603897839225378,0.5640903065227169,0.3598707150850294,True
+2616,Salman kha ho,Salman kha ho,1,1,0.11707428028539586,0.6599969137617058,0.22292880595289796,True
+1949,4 mints more,4 mints more,1,1,0.13420095689417424,0.46092769264466577,0.4048713504611598,True
+4870,Sala kamina sallu bhai ramjan mahineme bajarangi ban gaya kotta sala kamina sallu.... suno musalman bhaiyo aur behano es bar bi sallubhai ko ullu bana denge,Sala kamina sallu bhai ramjan mahineme bajarangi ban gaya kotta sala kamina sallu.... suno musalman bhaiyo aur behano es bar bi sallubhai ko ullu bana denge,0,0,0.6924214311364363,0.1301262017068434,0.17745236715672077,True
+534,P m sab Aap ips abitabh thakur ki madd kigiye ga,P m sab aap ips abitabh thakur ki madd kigiye ga,2,1,0.33414786937834345,0.36765324415164474,0.29819888647001214,False
+3753,kitna paisa kama lega bajrangi,kitna paisa kama lega bajrangi,2,2,0.18485550363445855,0.3698531106847458,0.4452913856807957,True
+1247,o ja gashti k bachey musalman ho k hindu bna hai lanat tere pe,o ja gashti k bachey musalman ho k hindu bna hai lanat tere pe,0,0,0.8171805450690612,0.1281004920046746,0.05471896292626403,True
+4846,abhi bhi sant rahu tumhara dimag to thik hai tumhe abhi tumhe samajh nahi aarha na jis din koi aur mujhe koi aur lejaega sadi karke usdin samajh aaega tumhe abhi baithe raho tum,abhi bhi sant rahu tumhara dimag to thik hai tumhe abhi tumhe samajh nahi aarha na jis din koi aur mujhe koi aur lejaega sadi karke usdin samajh aaega tumhe abhi baithe raho tum,1,0,0.4910050321664779,0.3255575728554955,0.18343739497802694,False
+3664,Rinky Kumari salman hai vo alva nahi hai,Rinky Kumari salman hai vo alva nahi hai,2,0,0.6034964198722825,0.2558485367252992,0.14065504340241788,False
+3794,Bhaijaan baat se palat gaye...... yeh aapki fitrat mai nai ho sakta.... aapka P.A naam kharaab kar rha hai aapka,Bhaijaan baat se palat gaye...... yeh aapki fitrat mai nahi ho sakta.... aapka P.A naam kharaab kar rha hai aapka,2,1,0.30759173733972234,0.3570979361323157,0.335310326527962,False
+1159,lov you salman,lov you salman,2,2,0.10452653240225027,0.2733226882940376,0.6221507793037122,True
+4440,Nice meri jaan,Nice meri jaan,2,2,0.03478128005362731,0.13741605433571216,0.8278026656106608,True
+610,salman itni problem mei bhi desh ki duty ker rhe hai so why not..,salman itni problem mei bhi desh ki duty ker rhe hai so why not..,2,0,0.3693962243745968,0.2623419695981736,0.36826180602722974,False
+3220,Salman bhai apne apne page pe apna trailer ni dla youtube wala,Salman bhai apne apne page pe apna trailer ni dla youtube wala,0,0,0.41121991823961024,0.36223317187562487,0.22654690988476509,True
+981,tum se pyaar <3<3<3,tum se pyaar <3<3<3,2,0,0.46631518991988913,0.30112056834995465,0.23256424173015622,False
+4360,salman bhaiya aap shadi kab korogi? me apki shadi ki barat me jana chahta hu,salman bhaiya aap shadi kab korogi? me apki shadi ki barat me jana chahta hu,1,2,0.09605312830928131,0.4423946406059516,0.4615522310847671,False
+4222,"Ese he baiya bajrangi.,","Ese he baiya bajrangi.,",1,2,0.17181189878443082,0.33300331611194994,0.49518478510361946,False
+3407,Ohhhh myy salluuu,Ohhhh myy salluuu,2,1,0.13654539799028245,0.45037260567821724,0.4130819963315001,False
+4762,awsm trailer with dhasuuuu fights,awsm trailer with dhasuuuu fights,2,2,0.1725162986097815,0.37854801869846016,0.4489356826917582,True
+4042,Ya allah ap abhi tak nahi aye salman :(,Ya allah aap abhi tak nahi aye salman :(,1,1,0.3340706589929863,0.451534363463722,0.21439497754329168,True
+4354,Shadi nhi hogi yaar aur kya,Shadi nahi hogi yaar aur kya,1,0,0.42283546944496175,0.40766989637812534,0.16949463417691316,False
+1033,No.diziye whatsupp ka photo bej dete hai,No.diziye whatsupp ka photo bej dete hai,1,0,0.4427457183668608,0.30486356845620505,0.25239071317693385,False
+4105,aj apne hum sbko bht hurt kiye salman...apse ye umid nhi thi hum sb ko :-(...bt m also luv u salman...:),aj apne hum sbko bht hurt kiye salman...apse ye umid nahi thi hum sb ko :-(...bt m also love u salman...:),1,2,0.26856670035973723,0.18553315555592684,0.5459001440843362,False
+3328,Sar modlig to nahi ki maine par ek din ballywood ka sitar zarur banuga,Sar modlig to nahi ki maine par ek din ballywood ka sitar zarur banuga,1,0,0.49419403173472165,0.3129806749489694,0.19282529331630857,False
+3308,Sir aap itna hi kah diye to kafi hai ...:-),Sir aap itna hi kah diye to kafi hai ...:-),1,1,0.2722122589219552,0.39157086263444574,0.3362168784435989,True
+4672,Randiko ban ko film kab release horaha hein,Randiko ban ko film kab release horaha hein,1,0,0.4114976374064533,0.34704420506714545,0.24145815752640143,False
+4770,Yar pooja kya ho gya ha aise bat ni krte,Yar pooja kya ho gya ha aise bat ni krte,0,1,0.3829439468380648,0.5092446940970912,0.10781135906484406,False
+285,Aap great ho modi ji aapki wajah se hamara sir fakar se ucha ho gaya dunia me jay ho,aap great ho modi ji aapki wajah se hamara sir fakar se ucha ho gaya dunia me jay ho,2,2,0.14975395921168405,0.23696372781163083,0.6132823129766852,True
+2212,# 4 baje ge aaaj party abhi baki.wow,4 baje ge aaaj party abhi baki.wow,1,1,0.23002484441969615,0.5393457044188174,0.23062945116148678,True
+3267,Bajrangi bhaijaan 4:30 b baj gaye Kb aaoge.. Bhai kl Mera birthday.. Kal ki party meri taraf se,Bajrangi bhaijaan 4:30 b baj gaye Kb aaoge.. Bhai kl Mera birthday.. Kal ki party meri taraf se,1,1,0.07583555282672258,0.6272716890363044,0.29689275813697263,True
+4257,pehle mai musalman hun bad mai bhai ka frnz hunn frenz hai bhajrangi movie flop hogi dekh lena,pehle mai musalman hun bad mai bhai ka frnz hunn frenz hai bhajrangi movie flop hogi dekh lena,0,0,0.6672618001652233,0.1385873294274824,0.1941508704072942,True
+4370,Chance bhut kam hai mai dekhsakti hoon ya nahi,Chance bahut kam hai mai dekhsakti hoon ya nahi,1,1,0.396838996195746,0.4224543679269095,0.18070663587734467,True
+3618,Rammi hindo salman. Kafir kuty ho tum gandooo,Rammi hindo salman. Kafir kuty ho tum gandooo,0,0,0.49788027980147026,0.31662948568686977,0.18549023451165947,True
+1831,Salman ji aapne iss bar koi song nahi gaya mujhe wait tha k iss bar b aap ke lovely voice main koi song gaye ......I love your voice ....hangover is my all time favourite song abe tak main vo song sunte ho I just love that song,Salman ji aapne iss bar koi song nahi gaya mujhe wait tha k iss bar b aap ke lovely voice main koi song gaye ......I love your voice ....hangover is my all time favourite song abe tak main vo song sunte ho I just love that song,2,2,0.19642317055918168,0.18727720043140256,0.6162996290094155,True
+762,Abhi saheri Ka waqt bhi khatam nhi hua aur azaan hona bhi baaki hai,Abhi saheri Ka waqt bhi khatam nahi hua aur azaan hona bhi baaki hai,1,0,0.48647026655444553,0.34323944073476226,0.17029029271079224,False
+2029,Vry nce sir. <3,Vry nce sir. <3,2,1,0.09830114018411842,0.49786867740581053,0.403830182410071,False
+1437,yaaahi bhut bari party he ap ki taraaaf se,yaaahi bahut bari party he aap ki taraaaf se,1,1,0.2528098942052163,0.388335738265671,0.3588543675291128,True
+1614,U owsum Salman bhai,U owsum Salman bhai,2,1,0.06492128026396231,0.47492765622194194,0.4601510635140962,False
+2387,hiii ab to 4 baj gye,hiii ab to 4 baj gye,1,1,0.17673428626864462,0.6943262463721592,0.12893946735919595,True
+646,salman sir aap kaise ho plz reply b de diya karo,salman sir aap kaise ho please reply b de diya karo,1,1,0.1224311381509169,0.6489441580676826,0.22862470378140093,True
+2022,Salman bhai min ap say bat Karna chata hn plzzzzzzzz bhai,Salman bhai min aap say bat Karna chata hn plzzzzzzzz bhai,2,1,0.06837118043620088,0.5552382715035574,0.3763905480602426,False
+1232,sandhya slman bat nai karega,sandhya slman bat nahi karega,1,1,0.41537232059340673,0.5031757801103954,0.08145189929619784,True
+3057,tu sisters aur brothers bahut pyar karte?,tu sisters aur brothers bahut pyar karte?,1,0,0.473772100085033,0.24711951421232142,0.2791083857026458,False
+658,India no1 star salman bhai,India no1 star salman bhai,2,1,0.1600188115752057,0.4263883234389993,0.4135928649857951,False
+458,Swagatam Maa bharti apne pass bula rahi h,Swagatam Maa bharti apne pass bula rahi hai,1,0,0.44945742468399325,0.36302142160654227,0.18752115370946432,False
+1407,eid musalmaan ki hoti hai,eid musalmaan ki hoti hai,1,0,0.5139101414698689,0.22859736318949686,0.25749249534063445,False
+1760,My bhai my hero salman bhaihum salman bhai ke bahut bare bhakt h mar jayenge lekin jhut nahi bolenge,My bhai my hero salman bhaihum salman bhai ke bahut bare bhakt hai mar jayenge lekin jhut nahi bolenge,1,1,0.24233271962351485,0.40387244970604425,0.3537948306704408,True
+3651,Jodhpur aaoge jab milo ga...mai ab..kaha jaoge mujse bach ke..saadi gali tu ana hi padega,Jodhpur aaoge jab milo ga...mai ab..kaha jaoge mujse bach ke..saadi gali tu ana hi padega,2,0,0.44910537371231546,0.3858783387418552,0.16501628754582934,False
+2392,3min bs bhaiii,3min bs bhaiii,1,1,0.13434138947208685,0.46414951937262683,0.4015090911552861,True
+1519,m musalman ladki se shadi krna chahta hu mare age 25 hai plz col me only ladki 09818463635 from (hp),m musalman ladki se shadi krna chahta hu mare age 25 hai please col me only ladki 09818463635 from hp,1,1,0.32633290592693126,0.46864689060962367,0.20502020346344532,True
+2749,hi salman vai......,hi salman vai......,1,1,0.17625250307568857,0.45209919190412523,0.371648305020186,True
+4002,bhai jaan aap raipur aaoge kya,bhai jaan aap raipur aaoge kya,1,1,0.07257333786705401,0.4885291703251291,0.4388974918078169,True
+4273,Sala hrami muslmano ka dushman badnam kiya hai Muslman ko kalank hai kabrustan mai tera paisa kaam nahi aayega balki #aamaal aor sabse pahle #imaan #pakka hai ya nahi,Sala hrami muslmano ka dushman badnam kiya hai Muslman ko kalank hai kabrustan mai tera paisa kaam nahi aayega balki aamaal aor sabse pahle imaan pakka hai ya nahi,0,0,0.70163766320319,0.16440637497111776,0.13395596182569258,True
+3601,"Eid ki aapko dher sari badhai ho, and BAJRANGI BHAIJAN 17ko screen par aai he to me or meri family sab dekhne jayenge, and me dua karta hu ki aapki ye film jyada tar log dekhe or 200corore ke club se bhi aage jaye. BEST OF LUCK. BEING HUMAN","Eid ki aapko dher sari badhai ho, and BAJRANGI BHAIJAN 17ko screen par aai he to me or meri family sab dekhne jayenge, and me dua karta hu ki aapki ye film jyada tar log dekhe or 200corore ke club se bhi aage jaye. BEST OF LUCK. BEING HUMAN",1,2,0.16217245075054737,0.17700788952836136,0.6608196597210915,False
+2259,Salman bhai aapne roza rakha he ke nahi? Ramza ka,Salman bhai aapne roza rakha he ke nahi? Ramza ka,1,0,0.36955620732876376,0.36110365317589377,0.2693401394953426,False
+4220,koi bhi uss fake pi pr yakeen kaise kr sakta h itna hi doubt tha toh trailr launch wala video dkh le na chahiye tha sb clear ho jata,koi bhi uss fake pi pr yakeen kaise kr sakta hai itna hi doubt tha toh trailr launch wala video dkh le na chahiye tha sb clear ho jata,0,0,0.5656606975790723,0.26595109168610453,0.168388210734823,True
+938,Hallo salman sir,Hallo salman sir,1,1,0.11786658051084892,0.45625965722172956,0.42587376226742135,True
+4666,Allah kare ki app ki film bajrangi bhaijaan south therator mey reliz ho jaye,Allah kare ki app ki film bajrangi bhaijaan south therator mey reliz ho jaye,2,2,0.3496016710518363,0.21310823970237786,0.43729008924578655,True
+4935,Madarchod supar dupar flop ho gae teri movieâ€¦BUHUBALI ROCXxx :),Madarchod supar dupar flop ho gae teri movie BUHUBALI ROCXxx :),0,0,0.7833197999187627,0.058614171473814994,0.15806602860742242,True
+4418,jay jay bajrngi bhai jaan,jay jay bajrngi bhai jaan,2,1,0.041832219160482687,0.4839122277612779,0.4742555530782396,False
+3749,Sir baat kr lo plzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,Sir baat kr lo plzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,1,1,0.18661792283130543,0.5135892142000412,0.2997928629686534,True
+2435,suru kar do yaar,suru kar do yaar,1,1,0.20463151346721614,0.5118524932478025,0.2835159932849817,True
+3775,jawab deyde...?? :( :( #livechatwithsalmankhan,jawab deyde...?? :( :( livechatwithsalmankhan,2,1,0.14512623323961768,0.45210799278743236,0.4027657739729499,False
+1192,har saal eid me ana dhoom machake jana,har saal eid me ana dhoom machake jana,2,2,0.1393907011881931,0.39229353629278324,0.46831576251902374,True
+1941,Salman bas mjhe aapse ek ques poochna h bas or kuch,Salman bas mjhe aapse ek ques poochna hai bas or kuch,1,1,0.23276250042035343,0.43998874818947525,0.3272487513901712,True
+4923,Sallman ki photos uplod krke fb ko khrab mt kro,Sallman ki photos uplod krke fb ko khrab mt kro,1,0,0.5123891972384107,0.27007539912932654,0.2175354036322627,False
+3991,teri to saqal bhi dekhne ko dil nahi karta,teri to saqal bhi dekhne ko dil nahi karta,0,0,0.6223698619425276,0.21836779174869875,0.15926234630877412,True
+2761,#salu bhai ap bas bachio ko reply kartay ho :p,salu bhai aap bas bachio ko reply kartay ho :p,1,1,0.16064945055170649,0.44690833812106384,0.3924422113272296,True
+4754,Awsome..miny salman khan.,Awsome..miny salman khan.,2,2,0.3502617445146038,0.23207104784219784,0.41766720764319876,True
+2989,Kamal krte ho pandey ji kha ho aap,Kamal krte ho pandey ji kha ho aap,1,1,0.09073189315129787,0.6596852167384138,0.24958289011028792,True
+2279,bhai apko jumma mubarak or mai phele nahi jata apki movie dekhne ab jaunga kyuki ap fb pr bate karoge humse,bhai apko jumma mubarak or mai phele nahi jata apki movie dekhne ab jaunga kyuki aap fb pr bate karoge humse,1,2,0.17671585821628452,0.33056981252916245,0.49271432925455266,False
+1977,Hum vi bath korengi apke sath sallu bhai,Hum vi bath korengi apke sath sallu bhai,1,2,0.043759454513754514,0.465974004873968,0.4902665406122774,False
+4434,Kya haal hain..pawan kumar chaturvedi g..urf. bajrangi bhai bhajaan,Kya haal hain..pawan kumar chaturvedi g..urf. bajrangi bhai bhajaan,1,2,0.08831558005355865,0.4392667893139935,0.4724176306324477,False
+4134,Sale kyu pagal ho rahe ho chootiyao salman nikal liya,Sale kyun pagal ho rahe ho chootiyao salman nikal liya,0,0,0.5776913941013043,0.3067889774540855,0.11551962844461001,True
+4266,Ap jesi jaha miljati he fir durghatna ghatjati he,aap jesi jaha miljati he fir durghatna ghatjati he,0,1,0.08781611179167588,0.5474096800322686,0.3647742081760554,False
+683,Aap jaisa kimti mind sabke pas hona chiye issse bimari nai banti hai,aap jaisa kimti mind sabke pas hona chiye issse bimari nahi banti hai,2,0,0.4599670111525699,0.3426548743627817,0.19737811448464854,False
+311,Plz sir aap se baat kar ne hai,please sir aap se baat kar ne hai,1,1,0.170545595515645,0.5722078304915076,0.25724657399284756,True
+4702,Bhai fadu hai,Bhai fadu hai,2,1,0.1672656246565123,0.505398802213931,0.3273355731295563,False
+2431,Bhai sabko reply kaise karoge,Bhai sabko reply kaise karoge,1,1,0.056888516036822094,0.5811744764239838,0.3619370075391943,True
+3783,sir ek spna h zindgi m ek bar milna h aapse,sir ek spna hai zindgi m ek bar milna hai aapse,2,1,0.2226902466223881,0.49290923206967324,0.28440052130793825,False
+892,Hye meri cutey,Hye meri cutey,2,2,0.1241098371652721,0.427258728431584,0.4486314344031438,True
+1106,ye vi bolne ki baat h ap bulayen aur hum na ayee #bhaiyjan,ye vi bolne ki baat hai aap bulayen aur hum na ayee bhaiyjan,1,1,0.29611922016805425,0.40077629753059096,0.3031044823013547,True
+2663,kisse karenge bro aapke to fan bhi bhut hai,kisse karenge bro aapke to fan bhi bahut hai,1,1,0.28135140259718566,0.38135563084774143,0.3372929665550726,True
+3633,itne sare logo me se humse kaise baat karoge?? :-(,itne sare logo me se humse kaise baat karoge?? :-(,2,1,0.23980921347557388,0.489457552421019,0.27073323410340716,False
+3848,sir itna to koi apni girlfriend ka b wait nae krta pta nae ap ans kyn nae d rhe,sir itna to koi apni girlfriend ka b wait nae krta pta nae aap ans kyn nae d rhe,1,1,0.3396183459924008,0.3723369321537766,0.28804472185382274,True
+2733,sone do ...aajayenge apne aap,sone do ...aajayenge apne aap,1,1,0.1587411931215986,0.5757517016073235,0.26550710527107757,True
+2039,BHAIJAAN ... KAVVI KOLKATA may aoo .. apni fanzzzz say milne ... already Banjarangi bhaijaan MEGA ... HIT ...,BHAIJAAN ... KAVVI KOLKATA may aoo .. apni fanzzzz say milne ... already Banjarangi bhaijaan MEGA ... HIT ...,2,2,0.13167831652347398,0.26643521525409775,0.6018864682224283,True
+4068,kaha hai salman,kaha hai salman,1,1,0.3595486810476474,0.4733388325596849,0.16711248639266785,True
+675,Sacha bharat INDIA,Sacha bharat INDIA,2,2,0.21993086594460715,0.13798320990753257,0.6420859241478603,True
+4359,Hy tamanna i wnt 2 frndship wth u,hai tamanna i wnt 2 frndship wth u,1,1,0.35738585188907146,0.3971332594230609,0.2454808886878673,True
+4314,allaha aapk sath hai bhai,allaha aapk sath hai bhai,2,2,0.11986188277421124,0.42303124450823887,0.45710687271754985,True
+1544,Assalamu alaikum bhaijan,Assalamu alaikum bhaijan,1,1,0.0945551084071363,0.5282342831809815,0.37721060841188253,True
+547,Desh ka vikas har koi petrol or diseal ke rate bda kar hi kyu krna chahta hai,Desh ka vikas har koi petrol or diseal ke rate bda kar hi kyun krna chahta hai,0,0,0.4463192804327116,0.2381187089762897,0.31556201059099875,True
+885,salman khan rock's ss,salman khan rock's ss,2,2,0.3519340279847445,0.23844860732336362,0.40961736469189225,True
+2416,Sir mai sab me se eak alag salg fan hu .Maine suna apka apharan huwa,Sir mai sab me se eak alag salg fan hu .Maine suna apka apharan huwa,1,1,0.13064035895122272,0.4910764148281487,0.37828322622062854,True
+261,I love u.modi sir jankibhi jarurat ho to mang lena haste haste.dedege aap ka subh sintak,I love u.modi sir jankibhi jarurat ho to mang lena haste haste.dedege aap ka subh sintak,2,2,0.19585048814057365,0.1865796816280466,0.6175698302313796,True
+568,Sir kabi Jammu Kashmir k ITI k haalat toh dekho koi staff nahi koi metrial nahi aur aap skill development ki baat karte ho,Sir kabi Jammu Kashmir k ITI k haalat toh dekho koi staff nahi koi metrial nahi aur aap skill development ki baat karte ho,0,0,0.48448238110348474,0.3079622326204017,0.2075553862761137,True
+1022,Muskurane ki waja tum ho,Muskurane ki waja tum ho,2,0,0.485499090758381,0.34569491499291527,0.16880599424870402,False
+1640,kyu movie me kuch glt dikhaya h kya,kyun movie me kuch glt dikhaya hai kya,1,1,0.3367423947490233,0.4187102716238945,0.24454733362708225,True
+958,tumhare dil me kuch na kuch khot to hai phone nahi karne ka region samajh me nahi aata aisa kis relationship me hota hai,tumhare dil me kuch na kuch khot to hai phone nahi karne ka region samajh me nahi aata aisa kis relationship me hota hai,2,0,0.5161244855624758,0.29717474315766546,0.18670077127985868,False
+29,wah wah Turkes,wah wah Turkes,1,2,0.0811487284538864,0.26099773365068374,0.6578535378954299,False
+570,Ati sundar sir sabse hatkar Vande~~~~~ sir,Ati sundar sir sabse hatkar Vande sir,2,2,0.08003433296614915,0.42335190339275497,0.4966137636410956,True
+928,Koi frnshp kre ga?,Koi frnshp kre ga?,1,0,0.49601584230704704,0.2699265577572315,0.23405759993572176,False
+4321,"aap galat na the, na ho, na hi hoge. bhai aap ki sadi ka intijar pure world ko hai .kab super duper news de rahe ho aap.","aap galat na the, na ho, na hi hoge. bhai aap ki sadi ka intijar pure world ko hai .kab super duper news de rahe ho aap.",1,2,0.18782647699500224,0.330867451659976,0.48130607134502185,False
+476,I trust you so very nice improvement kabhi humne apne pm se nahi bola tha pehli baar hamari baat jaan pa rahi hai mujhe asahi pm hindustan ki zameen pe chahiye tha,I trust you so very nice improvement kabhi humne apne pm se nahi bola tha pehli baar hamari baat jaan pa rahi hai mujhe asahi pm hindustan ki zameen pe chahiye tha,2,2,0.19478101310050389,0.19052530779464064,0.6146936791048554,True
+2012,Koi bhi yeh chutiyo Salman Khan picture nahi dekhne musalmano be care ful picture ko flop karne ha,Koi bhi yeh chutiyo Salman Khan picture nahi dekhne musalmano be care ful picture ko flop karne ha,2,0,0.7078621251504955,0.14977800529299334,0.14235986955651128,False
+2783,are kya hua bologe bhi kha ho,are kya hua bologe bhi kha ho,1,1,0.140947382785801,0.6574842890833364,0.20156832813086217,True
+3933,Bhai jaan majhe le rahe ho malum h,Bhai jaan majhe le rahe ho malum hai,2,1,0.14770961233242821,0.4915068064029189,0.36078358126465315,False
+1464,aap ki EID ki party me hum ainge bhai,aap ki EID ki party me hum ainge bhai,2,1,0.1523945536548154,0.5260229598278988,0.32158248651728644,False
+501,I heartly salute you Mr. Prime minister aapka karyakal Bharat varsh ke itihas me savarnim yug sabit Hoga Jai hind,I heartly salute you Mr. Prime minister aapka karyakal Bharat varsh ke itihas me savarnim yug sabit Hoga Jai hind,2,2,0.0847555760479252,0.10876265925103544,0.8064817647010393,True
+327,"Tu bhi jhootha nikla ,Vaada tera vaada hi nikla...","Tu bhi jhootha nikla ,Vaada tera vaada hi nikla...",0,0,0.5047503668626737,0.30391943417249334,0.19133019896483275,True
+393,Bade dhayan se dekh rahe ho,Bade dhayan se dekh rahe ho,1,1,0.3032822653192868,0.40734398059860494,0.28937375408210825,True
+4274,Sahi h fir agar aisi baat h to .....Jo log afwah uda rahe unhen ye sab nhi krna chahye......Islam jhut nhi sikhata h,Sahi hai fir agar aisi baat hai to .....Jo log afwah uda rahe unhen ye sab nahi krna chahye......Islam jhut nahi sikhata hai,0,0,0.5635051359439908,0.30225953100026265,0.1342353330557463,True
+470,modi g ke jajbe ko koti koti naman,modi g ke jajbe ko koti koti naman,2,2,0.3267273984896459,0.16937577483504454,0.5038968266753098,True
